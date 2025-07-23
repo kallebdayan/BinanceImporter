@@ -1,0 +1,1522 @@
+2025-07-23 18:37:39,785 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DIAUSDT&interval=1m&limit=100&startTime=1750714659189 HTTP/1.1" 200 2545
+2025-07-23 18:37:39,803 - INFO - Coletados 100 candles para DIAUSDT 1m
+2025-07-23 18:37:39,907 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DODOUSDT&interval=1m&limit=100&startTime=1750714659907
+2025-07-23 18:37:40,301 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DODOUSDT&interval=1m&limit=100&startTime=1750714659907 HTTP/1.1" 200 2357
+2025-07-23 18:37:40,321 - INFO - Coletados 100 candles para DODOUSDT 1m
+2025-07-23 18:37:40,427 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DOGEUSDT&interval=1m&limit=100&startTime=1750714660427
+2025-07-23 18:37:40,811 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DOGEUSDT&interval=1m&limit=100&startTime=1750714660427 HTTP/1.1" 200 4302
+2025-07-23 18:37:40,822 - INFO - Coletados 100 candles para DOGEUSDT 1m
+2025-07-23 18:37:40,934 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DOGSUSDT&interval=1m&limit=100&startTime=1750714660934
+2025-07-23 18:37:41,317 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DOGSUSDT&interval=1m&limit=100&startTime=1750714660934 HTTP/1.1" 200 3666
+2025-07-23 18:37:41,337 - INFO - Coletados 100 candles para DOGSUSDT 1m
+2025-07-23 18:37:41,441 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DOTUSDT&interval=1m&limit=100&startTime=1750714661441
+2025-07-23 18:37:42,019 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DOTUSDT&interval=1m&limit=100&startTime=1750714661441 HTTP/1.1" 200 4058
+2025-07-23 18:37:42,035 - INFO - Coletados 100 candles para DOTUSDT 1m
+2025-07-23 18:37:42,145 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DUSDT&interval=1m&limit=100&startTime=1750714662145
+2025-07-23 18:37:42,551 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DUSDT&interval=1m&limit=100&startTime=1750714662145 HTTP/1.1" 200 2628
+2025-07-23 18:37:42,568 - INFO - Coletados 100 candles para DUSDT 1m
+2025-07-23 18:37:42,675 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DUSKUSDT&interval=1m&limit=100&startTime=1750714662675
+2025-07-23 18:37:43,063 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DUSKUSDT&interval=1m&limit=100&startTime=1750714662675 HTTP/1.1" 200 2494
+2025-07-23 18:37:43,087 - INFO - Coletados 100 candles para DUSKUSDT 1m
+2025-07-23 18:37:43,188 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DYDXUSDT&interval=1m&limit=100&startTime=1750714663188
+2025-07-23 18:37:43,565 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DYDXUSDT&interval=1m&limit=100&startTime=1750714663188 HTTP/1.1" 200 3816
+2025-07-23 18:37:43,594 - INFO - Coletados 100 candles para DYDXUSDT 1m
+2025-07-23 18:37:43,698 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=DYMUSDT&interval=1m&limit=100&startTime=1750714663698
+2025-07-23 18:37:44,088 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=DYMUSDT&interval=1m&limit=100&startTime=1750714663698 HTTP/1.1" 200 2525
+2025-07-23 18:37:44,104 - INFO - Coletados 100 candles para DYMUSDT 1m
+2025-07-23 18:37:44,206 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EDUUSDT&interval=1m&limit=100&startTime=1750714664206
+2025-07-23 18:37:44,596 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EDUUSDT&interval=1m&limit=100&startTime=1750714664206 HTTP/1.1" 200 2275
+2025-07-23 18:37:44,616 - INFO - Coletados 100 candles para EDUUSDT 1m
+2025-07-23 18:37:44,719 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EGLDUSDT&interval=1m&limit=100&startTime=1750714664719
+2025-07-23 18:37:45,107 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EGLDUSDT&interval=1m&limit=100&startTime=1750714664719 HTTP/1.1" 200 2995
+2025-07-23 18:37:45,136 - INFO - Coletados 100 candles para EGLDUSDT 1m
+2025-07-23 18:37:45,237 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EIGENUSDT&interval=1m&limit=100&startTime=1750714665237
+2025-07-23 18:37:45,624 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EIGENUSDT&interval=1m&limit=100&startTime=1750714665237 HTTP/1.1" 200 3884
+2025-07-23 18:37:45,640 - INFO - Coletados 100 candles para EIGENUSDT 1m
+2025-07-23 18:37:45,752 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ENAUSDT&interval=1m&limit=100&startTime=1750714665752
+2025-07-23 18:37:46,135 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ENAUSDT&interval=1m&limit=100&startTime=1750714665752 HTTP/1.1" 200 4389
+2025-07-23 18:37:46,160 - INFO - Coletados 100 candles para ENAUSDT 1m
+2025-07-23 18:37:46,263 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ENJUSDT&interval=1m&limit=100&startTime=1750714666263
+2025-07-23 18:37:46,647 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ENJUSDT&interval=1m&limit=100&startTime=1750714666263 HTTP/1.1" 200 2831
+2025-07-23 18:37:46,669 - INFO - Coletados 100 candles para ENJUSDT 1m
+2025-07-23 18:37:46,773 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ENSUSDT&interval=1m&limit=100&startTime=1750714666773
+2025-07-23 18:37:47,088 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ENSUSDT&interval=1m&limit=100&startTime=1750714666773 HTTP/1.1" 200 3567
+2025-07-23 18:37:47,118 - INFO - Coletados 100 candles para ENSUSDT 1m
+2025-07-23 18:37:47,219 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EPICUSDT&interval=1m&limit=100&startTime=1750714667219
+2025-07-23 18:37:47,672 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EPICUSDT&interval=1m&limit=100&startTime=1750714667219 HTTP/1.1" 200 2664
+2025-07-23 18:37:47,693 - INFO - Coletados 100 candles para EPICUSDT 1m
+2025-07-23 18:37:47,795 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ERAUSDT&interval=1m&limit=100&startTime=1750714667795
+2025-07-23 18:37:48,186 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ERAUSDT&interval=1m&limit=100&startTime=1750714667795 HTTP/1.1" 200 4952
+2025-07-23 18:37:48,203 - INFO - Coletados 100 candles para ERAUSDT 1m
+2025-07-23 18:37:48,308 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ETCUSDT&interval=1m&limit=100&startTime=1750714668308
+2025-07-23 18:37:48,693 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ETCUSDT&interval=1m&limit=100&startTime=1750714668308 HTTP/1.1" 200 3426
+2025-07-23 18:37:48,747 - INFO - Coletados 100 candles para ETCUSDT 1m
+2025-07-23 18:37:48,854 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ETHFIUSDT&interval=1m&limit=100&startTime=1750714668854
+2025-07-23 18:37:49,169 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ETHFIUSDT&interval=1m&limit=100&startTime=1750714668854 HTTP/1.1" 200 3725
+2025-07-23 18:37:49,186 - INFO - Coletados 100 candles para ETHFIUSDT 1m
+2025-07-23 18:37:49,290 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ETHUSDT&interval=1m&limit=100&startTime=1750714669290
+2025-07-23 18:37:49,618 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ETHUSDT&interval=1m&limit=100&startTime=1750714669290 HTTP/1.1" 200 5098
+2025-07-23 18:37:49,632 - INFO - Coletados 100 candles para ETHUSDT 1m
+2025-07-23 18:37:49,739 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EURIUSDT&interval=1m&limit=100&startTime=1750714669739
+2025-07-23 18:37:50,168 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EURIUSDT&interval=1m&limit=100&startTime=1750714669739 HTTP/1.1" 200 2869
+2025-07-23 18:37:50,188 - INFO - Coletados 100 candles para EURIUSDT 1m
+2025-07-23 18:37:50,296 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=EURUSDT&interval=1m&limit=100&startTime=1750714670296
+2025-07-23 18:37:50,634 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=EURUSDT&interval=1m&limit=100&startTime=1750714670296 HTTP/1.1" 200 3725
+2025-07-23 18:37:50,651 - INFO - Coletados 100 candles para EURUSDT 1m
+2025-07-23 18:37:50,763 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FARMUSDT&interval=1m&limit=100&startTime=1750714670763
+2025-07-23 18:37:51,077 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FARMUSDT&interval=1m&limit=100&startTime=1750714670763 HTTP/1.1" 200 3482
+2025-07-23 18:37:51,098 - INFO - Coletados 100 candles para FARMUSDT 1m
+2025-07-23 18:37:51,202 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FDUSDUSDT&interval=1m&limit=100&startTime=1750714671202
+2025-07-23 18:37:51,559 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FDUSDUSDT&interval=1m&limit=100&startTime=1750714671202 HTTP/1.1" 200 3553
+2025-07-23 18:37:51,591 - INFO - Coletados 100 candles para FDUSDUSDT 1m
+2025-07-23 18:37:51,692 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FETUSDT&interval=1m&limit=100&startTime=1750714671692
+2025-07-23 18:37:52,275 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FETUSDT&interval=1m&limit=100&startTime=1750714671692 HTTP/1.1" 200 3644
+2025-07-23 18:37:52,332 - INFO - Coletados 100 candles para FETUSDT 1m
+2025-07-23 18:37:52,433 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FIDAUSDT&interval=1m&limit=100&startTime=1750714672433
+2025-07-23 18:37:52,791 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FIDAUSDT&interval=1m&limit=100&startTime=1750714672433 HTTP/1.1" 200 3122
+2025-07-23 18:37:52,809 - INFO - Coletados 100 candles para FIDAUSDT 1m
+2025-07-23 18:37:52,914 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FILUSDT&interval=1m&limit=100&startTime=1750714672914
+2025-07-23 18:37:53,295 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FILUSDT&interval=1m&limit=100&startTime=1750714672914 HTTP/1.1" 200 3842
+2025-07-23 18:37:53,326 - INFO - Coletados 100 candles para FILUSDT 1m
+2025-07-23 18:37:53,430 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FIOUSDT&interval=1m&limit=100&startTime=1750714673430
+2025-07-23 18:37:53,816 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FIOUSDT&interval=1m&limit=100&startTime=1750714673430 HTTP/1.1" 200 2661
+2025-07-23 18:37:53,835 - INFO - Coletados 100 candles para FIOUSDT 1m
+2025-07-23 18:37:53,939 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FISUSDT&interval=1m&limit=100&startTime=1750714673939
+2025-07-23 18:37:54,324 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FISUSDT&interval=1m&limit=100&startTime=1750714673939 HTTP/1.1" 200 2388
+2025-07-23 18:37:54,348 - INFO - Coletados 100 candles para FISUSDT 1m
+2025-07-23 18:37:54,450 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FLMUSDT&interval=1m&limit=100&startTime=1750714674450
+2025-07-23 18:37:54,837 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FLMUSDT&interval=1m&limit=100&startTime=1750714674450 HTTP/1.1" 200 1973
+2025-07-23 18:37:54,859 - INFO - Coletados 100 candles para FLMUSDT 1m
+2025-07-23 18:37:54,961 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FLOKIUSDT&interval=1m&limit=100&startTime=1750714674961
+2025-07-23 18:37:55,348 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FLOKIUSDT&interval=1m&limit=100&startTime=1750714674961 HTTP/1.1" 200 4588
+2025-07-23 18:37:55,363 - INFO - Coletados 100 candles para FLOKIUSDT 1m
+2025-07-23 18:37:55,474 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FLOWUSDT&interval=1m&limit=100&startTime=1750714675474
+2025-07-23 18:37:55,864 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FLOWUSDT&interval=1m&limit=100&startTime=1750714675474 HTTP/1.1" 200 2225
+2025-07-23 18:37:55,886 - INFO - Coletados 100 candles para FLOWUSDT 1m
+2025-07-23 18:37:55,987 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FLUXUSDT&interval=1m&limit=100&startTime=1750714675987
+2025-07-23 18:37:56,375 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FLUXUSDT&interval=1m&limit=100&startTime=1750714675987 HTTP/1.1" 200 3432
+2025-07-23 18:37:56,382 - INFO - Coletados 100 candles para FLUXUSDT 1m
+2025-07-23 18:37:56,494 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FORMUSDT&interval=1m&limit=100&startTime=1750714676494
+2025-07-23 18:37:56,981 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FORMUSDT&interval=1m&limit=100&startTime=1750714676494 HTTP/1.1" 200 3791
+2025-07-23 18:37:57,002 - INFO - Coletados 100 candles para FORMUSDT 1m
+2025-07-23 18:37:57,103 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FORTHUSDT&interval=1m&limit=100&startTime=1750714677103
+2025-07-23 18:37:57,502 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FORTHUSDT&interval=1m&limit=100&startTime=1750714677103 HTTP/1.1" 200 2501
+2025-07-23 18:37:57,521 - INFO - Coletados 100 candles para FORTHUSDT 1m
+2025-07-23 18:37:57,628 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FTTUSDT&interval=1m&limit=100&startTime=1750714677628
+2025-07-23 18:37:58,013 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FTTUSDT&interval=1m&limit=100&startTime=1750714677628 HTTP/1.1" 200 3216
+2025-07-23 18:37:58,036 - INFO - Coletados 100 candles para FTTUSDT 1m
+2025-07-23 18:37:58,138 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FUNUSDT&interval=1m&limit=100&startTime=1750714678138
+2025-07-23 18:37:58,526 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FUNUSDT&interval=1m&limit=100&startTime=1750714678138 HTTP/1.1" 200 4451
+2025-07-23 18:37:58,548 - INFO - Coletados 100 candles para FUNUSDT 1m
+2025-07-23 18:37:58,653 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=FXSUSDT&interval=1m&limit=100&startTime=1750714678653
+2025-07-23 18:37:59,038 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=FXSUSDT&interval=1m&limit=100&startTime=1750714678653 HTTP/1.1" 200 2740
+2025-07-23 18:37:59,051 - INFO - Coletados 100 candles para FXSUSDT 1m
+2025-07-23 18:37:59,161 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GALAUSDT&interval=1m&limit=100&startTime=1750714679161
+2025-07-23 18:37:59,552 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GALAUSDT&interval=1m&limit=100&startTime=1750714679161 HTTP/1.1" 200 3758
+2025-07-23 18:37:59,571 - INFO - Coletados 100 candles para GALAUSDT 1m
+2025-07-23 18:37:59,674 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GASUSDT&interval=1m&limit=100&startTime=1750714679674
+2025-07-23 18:38:00,058 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GASUSDT&interval=1m&limit=100&startTime=1750714679674 HTTP/1.1" 200 2529
+2025-07-23 18:38:00,077 - INFO - Coletados 100 candles para GASUSDT 1m
+2025-07-23 18:38:00,186 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GHSTUSDT&interval=1m&limit=100&startTime=1750714680186
+2025-07-23 18:38:00,574 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GHSTUSDT&interval=1m&limit=100&startTime=1750714680186 HTTP/1.1" 200 1967
+2025-07-23 18:38:00,626 - INFO - Coletados 100 candles para GHSTUSDT 1m
+2025-07-23 18:38:00,735 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GLMRUSDT&interval=1m&limit=100&startTime=1750714680735
+2025-07-23 18:38:01,188 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GLMRUSDT&interval=1m&limit=100&startTime=1750714680735 HTTP/1.1" 200 2766
+2025-07-23 18:38:01,207 - INFO - Coletados 100 candles para GLMRUSDT 1m
+2025-07-23 18:38:01,315 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GLMUSDT&interval=1m&limit=100&startTime=1750714681315
+2025-07-23 18:38:01,702 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GLMUSDT&interval=1m&limit=100&startTime=1750714681315 HTTP/1.1" 200 2622
+2025-07-23 18:38:01,725 - INFO - Coletados 100 candles para GLMUSDT 1m
+2025-07-23 18:38:01,827 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GMTUSDT&interval=1m&limit=100&startTime=1750714681827
+2025-07-23 18:38:02,207 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GMTUSDT&interval=1m&limit=100&startTime=1750714681827 HTTP/1.1" 200 2915
+2025-07-23 18:38:02,227 - INFO - Coletados 100 candles para GMTUSDT 1m
+2025-07-23 18:38:02,337 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GMXUSDT&interval=1m&limit=100&startTime=1750714682337
+2025-07-23 18:38:02,652 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GMXUSDT&interval=1m&limit=100&startTime=1750714682337 HTTP/1.1" 200 2665
+2025-07-23 18:38:02,679 - INFO - Coletados 100 candles para GMXUSDT 1m
+2025-07-23 18:38:02,781 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GNOUSDT&interval=1m&limit=100&startTime=1750714682781
+2025-07-23 18:38:03,339 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GNOUSDT&interval=1m&limit=100&startTime=1750714682781 HTTP/1.1" 200 2862
+2025-07-23 18:38:03,360 - INFO - Coletados 100 candles para GNOUSDT 1m
+2025-07-23 18:38:03,469 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GNSUSDT&interval=1m&limit=100&startTime=1750714683469
+2025-07-23 18:38:03,787 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GNSUSDT&interval=1m&limit=100&startTime=1750714683469 HTTP/1.1" 200 3790
+2025-07-23 18:38:03,806 - INFO - Coletados 100 candles para GNSUSDT 1m
+2025-07-23 18:38:03,908 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GPSUSDT&interval=1m&limit=100&startTime=1750714683908
+2025-07-23 18:38:04,261 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GPSUSDT&interval=1m&limit=100&startTime=1750714683908 HTTP/1.1" 200 2533
+2025-07-23 18:38:04,278 - INFO - Coletados 100 candles para GPSUSDT 1m
+2025-07-23 18:38:04,385 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GRTUSDT&interval=1m&limit=100&startTime=1750714684385
+2025-07-23 18:38:04,773 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GRTUSDT&interval=1m&limit=100&startTime=1750714684385 HTTP/1.1" 200 3163
+2025-07-23 18:38:04,788 - INFO - Coletados 100 candles para GRTUSDT 1m
+2025-07-23 18:38:04,891 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GTCUSDT&interval=1m&limit=100&startTime=1750714684891
+2025-07-23 18:38:05,278 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GTCUSDT&interval=1m&limit=100&startTime=1750714684891 HTTP/1.1" 200 1679
+2025-07-23 18:38:05,306 - INFO - Coletados 100 candles para GTCUSDT 1m
+2025-07-23 18:38:05,408 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GUNUSDT&interval=1m&limit=100&startTime=1750714685408
+2025-07-23 18:38:05,940 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GUNUSDT&interval=1m&limit=100&startTime=1750714685408 HTTP/1.1" 200 3406
+2025-07-23 18:38:05,956 - INFO - Coletados 100 candles para GUNUSDT 1m
+2025-07-23 18:38:06,070 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=GUSDT&interval=1m&limit=100&startTime=1750714686070
+2025-07-23 18:38:06,819 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=GUSDT&interval=1m&limit=100&startTime=1750714686070 HTTP/1.1" 200 2669
+2025-07-23 18:38:06,844 - INFO - Coletados 100 candles para GUSDT 1m
+2025-07-23 18:38:06,947 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HAEDALUSDT&interval=1m&limit=100&startTime=1750714686947
+2025-07-23 18:38:07,327 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HAEDALUSDT&interval=1m&limit=100&startTime=1750714686947 HTTP/1.1" 200 3864
+2025-07-23 18:38:07,349 - INFO - Coletados 100 candles para HAEDALUSDT 1m
+2025-07-23 18:38:07,450 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HBARUSDT&interval=1m&limit=100&startTime=1750714687450
+2025-07-23 18:38:07,845 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HBARUSDT&interval=1m&limit=100&startTime=1750714687450 HTTP/1.1" 200 4153
+2025-07-23 18:38:07,863 - INFO - Coletados 100 candles para HBARUSDT 1m
+2025-07-23 18:38:07,968 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HEIUSDT&interval=1m&limit=100&startTime=1750714687967
+2025-07-23 18:38:08,460 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HEIUSDT&interval=1m&limit=100&startTime=1750714687967 HTTP/1.1" 200 2776
+2025-07-23 18:38:08,473 - INFO - Coletados 100 candles para HEIUSDT 1m
+2025-07-23 18:38:08,581 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HFTUSDT&interval=1m&limit=100&startTime=1750714688581
+2025-07-23 18:38:08,971 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HFTUSDT&interval=1m&limit=100&startTime=1750714688581 HTTP/1.1" 200 2509
+2025-07-23 18:38:08,992 - INFO - Coletados 100 candles para HFTUSDT 1m
+2025-07-23 18:38:09,096 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HIFIUSDT&interval=1m&limit=100&startTime=1750714689096
+2025-07-23 18:38:09,477 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HIFIUSDT&interval=1m&limit=100&startTime=1750714689096 HTTP/1.1" 200 3993
+2025-07-23 18:38:09,489 - INFO - Coletados 100 candles para HIFIUSDT 1m
+2025-07-23 18:38:09,603 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HIGHUSDT&interval=1m&limit=100&startTime=1750714689603
+2025-07-23 18:38:09,992 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HIGHUSDT&interval=1m&limit=100&startTime=1750714689603 HTTP/1.1" 200 3115
+2025-07-23 18:38:10,012 - INFO - Coletados 100 candles para HIGHUSDT 1m
+2025-07-23 18:38:10,116 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HIVEUSDT&interval=1m&limit=100&startTime=1750714690116
+2025-07-23 18:38:10,507 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HIVEUSDT&interval=1m&limit=100&startTime=1750714690116 HTTP/1.1" 200 2515
+2025-07-23 18:38:10,520 - INFO - Coletados 100 candles para HIVEUSDT 1m
+2025-07-23 18:38:10,628 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HMSTRUSDT&interval=1m&limit=100&startTime=1750714690628
+2025-07-23 18:38:10,982 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HMSTRUSDT&interval=1m&limit=100&startTime=1750714690628 HTTP/1.1" 200 3267
+2025-07-23 18:38:10,998 - INFO - Coletados 100 candles para HMSTRUSDT 1m
+2025-07-23 18:38:11,104 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HOMEUSDT&interval=1m&limit=100&startTime=1750714691104
+2025-07-23 18:38:11,532 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HOMEUSDT&interval=1m&limit=100&startTime=1750714691104 HTTP/1.1" 200 3474
+2025-07-23 18:38:11,546 - INFO - Coletados 100 candles para HOMEUSDT 1m
+2025-07-23 18:38:11,648 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HOOKUSDT&interval=1m&limit=100&startTime=1750714691648
+2025-07-23 18:38:12,042 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HOOKUSDT&interval=1m&limit=100&startTime=1750714691648 HTTP/1.1" 200 2791
+2025-07-23 18:38:12,058 - INFO - Coletados 100 candles para HOOKUSDT 1m
+2025-07-23 18:38:12,161 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HOTUSDT&interval=1m&limit=100&startTime=1750714692161
+2025-07-23 18:38:12,576 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HOTUSDT&interval=1m&limit=100&startTime=1750714692161 HTTP/1.1" 200 2974
+2025-07-23 18:38:12,592 - INFO - Coletados 100 candles para HOTUSDT 1m
+2025-07-23 18:38:12,698 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HUMAUSDT&interval=1m&limit=100&startTime=1750714692698
+2025-07-23 18:38:13,061 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HUMAUSDT&interval=1m&limit=100&startTime=1750714692698 HTTP/1.1" 200 3605
+2025-07-23 18:38:13,081 - INFO - Coletados 100 candles para HUMAUSDT 1m
+2025-07-23 18:38:13,190 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=HYPERUSDT&interval=1m&limit=100&startTime=1750714693190
+2025-07-23 18:38:13,578 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=HYPERUSDT&interval=1m&limit=100&startTime=1750714693190 HTTP/1.1" 200 3010
+2025-07-23 18:38:13,609 - INFO - Coletados 100 candles para HYPERUSDT 1m
+2025-07-23 18:38:13,711 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ICPUSDT&interval=1m&limit=100&startTime=1750714693711
+2025-07-23 18:38:14,105 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ICPUSDT&interval=1m&limit=100&startTime=1750714693711 HTTP/1.1" 200 3889
+2025-07-23 18:38:14,130 - INFO - Coletados 100 candles para ICPUSDT 1m
+2025-07-23 18:38:14,233 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ICXUSDT&interval=1m&limit=100&startTime=1750714694233
+2025-07-23 18:38:14,602 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ICXUSDT&interval=1m&limit=100&startTime=1750714694233 HTTP/1.1" 200 2689
+2025-07-23 18:38:14,626 - INFO - Coletados 100 candles para ICXUSDT 1m
+2025-07-23 18:38:14,728 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IDEXUSDT&interval=1m&limit=100&startTime=1750714694728
+2025-07-23 18:38:15,111 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IDEXUSDT&interval=1m&limit=100&startTime=1750714694728 HTTP/1.1" 200 3364
+2025-07-23 18:38:15,128 - INFO - Coletados 100 candles para IDEXUSDT 1m
+2025-07-23 18:38:15,236 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IDUSDT&interval=1m&limit=100&startTime=1750714695236
+2025-07-23 18:38:15,627 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IDUSDT&interval=1m&limit=100&startTime=1750714695236 HTTP/1.1" 200 3052
+2025-07-23 18:38:15,655 - INFO - Coletados 100 candles para IDUSDT 1m
+2025-07-23 18:38:15,756 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ILVUSDT&interval=1m&limit=100&startTime=1750714695756
+2025-07-23 18:38:16,138 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ILVUSDT&interval=1m&limit=100&startTime=1750714695756 HTTP/1.1" 200 2847
+2025-07-23 18:38:16,148 - INFO - Coletados 100 candles para ILVUSDT 1m
+2025-07-23 18:38:16,262 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IMXUSDT&interval=1m&limit=100&startTime=1750714696262
+2025-07-23 18:38:16,645 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IMXUSDT&interval=1m&limit=100&startTime=1750714696262 HTTP/1.1" 200 3334
+2025-07-23 18:38:16,676 - INFO - Coletados 100 candles para IMXUSDT 1m
+2025-07-23 18:38:16,780 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=INITUSDT&interval=1m&limit=100&startTime=1750714696780
+2025-07-23 18:38:17,262 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=INITUSDT&interval=1m&limit=100&startTime=1750714696780 HTTP/1.1" 200 3698
+2025-07-23 18:38:17,294 - INFO - Coletados 100 candles para INITUSDT 1m
+2025-07-23 18:38:17,398 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=INJUSDT&interval=1m&limit=100&startTime=1750714697398
+2025-07-23 18:38:17,728 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=INJUSDT&interval=1m&limit=100&startTime=1750714697398 HTTP/1.1" 200 3711
+2025-07-23 18:38:17,750 - INFO - Coletados 100 candles para INJUSDT 1m
+2025-07-23 18:38:17,860 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IOSTUSDT&interval=1m&limit=100&startTime=1750714697860
+2025-07-23 18:38:18,221 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IOSTUSDT&interval=1m&limit=100&startTime=1750714697860 HTTP/1.1" 200 2878
+2025-07-23 18:38:18,258 - INFO - Coletados 100 candles para IOSTUSDT 1m
+2025-07-23 18:38:18,361 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IOTAUSDT&interval=1m&limit=100&startTime=1750714698361
+2025-07-23 18:38:18,690 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IOTAUSDT&interval=1m&limit=100&startTime=1750714698361 HTTP/1.1" 200 3298
+2025-07-23 18:38:18,724 - INFO - Coletados 100 candles para IOTAUSDT 1m
+2025-07-23 18:38:18,825 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IOTXUSDT&interval=1m&limit=100&startTime=1750714698825
+2025-07-23 18:38:19,382 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IOTXUSDT&interval=1m&limit=100&startTime=1750714698825 HTTP/1.1" 200 3058
+2025-07-23 18:38:19,409 - INFO - Coletados 100 candles para IOTXUSDT 1m
+2025-07-23 18:38:19,513 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IOUSDT&interval=1m&limit=100&startTime=1750714699513
+2025-07-23 18:38:20,787 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IOUSDT&interval=1m&limit=100&startTime=1750714699513 HTTP/1.1" 200 3505
+2025-07-23 18:38:20,817 - INFO - Coletados 100 candles para IOUSDT 1m
+2025-07-23 18:38:20,922 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=IQUSDT&interval=1m&limit=100&startTime=1750714700922
+2025-07-23 18:38:21,360 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=IQUSDT&interval=1m&limit=100&startTime=1750714700922 HTTP/1.1" 200 3423
+2025-07-23 18:38:21,380 - INFO - Coletados 100 candles para IQUSDT 1m
+2025-07-23 18:38:21,486 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JASMYUSDT&interval=1m&limit=100&startTime=1750714701486
+2025-07-23 18:38:23,001 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JASMYUSDT&interval=1m&limit=100&startTime=1750714701486 HTTP/1.1" 200 3859
+2025-07-23 18:38:23,020 - INFO - Coletados 100 candles para JASMYUSDT 1m
+2025-07-23 18:38:23,125 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JOEUSDT&interval=1m&limit=100&startTime=1750714703125
+2025-07-23 18:38:23,562 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JOEUSDT&interval=1m&limit=100&startTime=1750714703125 HTTP/1.1" 200 2960
+2025-07-23 18:38:23,578 - INFO - Coletados 100 candles para JOEUSDT 1m
+2025-07-23 18:38:23,687 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JSTUSDT&interval=1m&limit=100&startTime=1750714703687
+2025-07-23 18:38:24,055 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JSTUSDT&interval=1m&limit=100&startTime=1750714703687 HTTP/1.1" 200 3298
+2025-07-23 18:38:24,087 - INFO - Coletados 100 candles para JSTUSDT 1m
+2025-07-23 18:38:24,192 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JTOUSDT&interval=1m&limit=100&startTime=1750714704192
+2025-07-23 18:38:24,635 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JTOUSDT&interval=1m&limit=100&startTime=1750714704192 HTTP/1.1" 200 3293
+2025-07-23 18:38:24,651 - INFO - Coletados 100 candles para JTOUSDT 1m
+2025-07-23 18:38:24,756 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JUPUSDT&interval=1m&limit=100&startTime=1750714704756
+2025-07-23 18:38:25,109 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JUPUSDT&interval=1m&limit=100&startTime=1750714704756 HTTP/1.1" 200 3939
+2025-07-23 18:38:25,141 - INFO - Coletados 100 candles para JUPUSDT 1m
+2025-07-23 18:38:25,243 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=JUVUSDT&interval=1m&limit=100&startTime=1750714705243
+2025-07-23 18:38:25,588 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=JUVUSDT&interval=1m&limit=100&startTime=1750714705243 HTTP/1.1" 200 2805
+2025-07-23 18:38:25,604 - INFO - Coletados 100 candles para JUVUSDT 1m
+2025-07-23 18:38:25,709 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KAIAUSDT&interval=1m&limit=100&startTime=1750714705709
+2025-07-23 18:38:26,276 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KAIAUSDT&interval=1m&limit=100&startTime=1750714705709 HTTP/1.1" 200 3929
+2025-07-23 18:38:26,294 - INFO - Coletados 100 candles para KAIAUSDT 1m
+2025-07-23 18:38:26,396 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KAITOUSDT&interval=1m&limit=100&startTime=1750714706396
+2025-07-23 18:38:26,784 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KAITOUSDT&interval=1m&limit=100&startTime=1750714706396 HTTP/1.1" 200 3976
+2025-07-23 18:38:26,800 - INFO - Coletados 100 candles para KAITOUSDT 1m
+2025-07-23 18:38:26,903 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KAVAUSDT&interval=1m&limit=100&startTime=1750714706903
+2025-07-23 18:38:27,295 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KAVAUSDT&interval=1m&limit=100&startTime=1750714706903 HTTP/1.1" 200 3368
+2025-07-23 18:38:27,315 - INFO - Coletados 100 candles para KAVAUSDT 1m
+2025-07-23 18:38:27,426 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KDAUSDT&interval=1m&limit=100&startTime=1750714707426
+2025-07-23 18:38:27,841 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KDAUSDT&interval=1m&limit=100&startTime=1750714707426 HTTP/1.1" 200 3611
+2025-07-23 18:38:27,858 - INFO - Coletados 100 candles para KDAUSDT 1m
+2025-07-23 18:38:27,962 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KERNELUSDT&interval=1m&limit=100&startTime=1750714707962
+2025-07-23 18:38:28,283 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KERNELUSDT&interval=1m&limit=100&startTime=1750714707962 HTTP/1.1" 200 3271
+2025-07-23 18:38:28,301 - INFO - Coletados 100 candles para KERNELUSDT 1m
+2025-07-23 18:38:28,404 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KMNOUSDT&interval=1m&limit=100&startTime=1750714708404
+2025-07-23 18:38:28,837 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KMNOUSDT&interval=1m&limit=100&startTime=1750714708404 HTTP/1.1" 200 3473
+2025-07-23 18:38:28,855 - INFO - Coletados 100 candles para KMNOUSDT 1m
+2025-07-23 18:38:28,957 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KNCUSDT&interval=1m&limit=100&startTime=1750714708957
+2025-07-23 18:38:29,555 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KNCUSDT&interval=1m&limit=100&startTime=1750714708957 HTTP/1.1" 200 2550
+2025-07-23 18:38:29,571 - INFO - Coletados 100 candles para KNCUSDT 1m
+2025-07-23 18:38:29,675 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=KSMUSDT&interval=1m&limit=100&startTime=1750714709675
+2025-07-23 18:38:30,063 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=KSMUSDT&interval=1m&limit=100&startTime=1750714709675 HTTP/1.1" 200 2934
+2025-07-23 18:38:30,082 - INFO - Coletados 100 candles para KSMUSDT 1m
+2025-07-23 18:38:30,185 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LAUSDT&interval=1m&limit=100&startTime=1750714710185
+2025-07-23 18:38:30,566 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LAUSDT&interval=1m&limit=100&startTime=1750714710185 HTTP/1.1" 200 4509
+2025-07-23 18:38:30,593 - INFO - Coletados 100 candles para LAUSDT 1m
+2025-07-23 18:38:30,698 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LAYERUSDT&interval=1m&limit=100&startTime=1750714710698
+2025-07-23 18:38:31,190 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LAYERUSDT&interval=1m&limit=100&startTime=1750714710698 HTTP/1.1" 200 4359
+2025-07-23 18:38:31,237 - INFO - Coletados 100 candles para LAYERUSDT 1m
+2025-07-23 18:38:31,340 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LAZIOUSDT&interval=1m&limit=100&startTime=1750714711340
+2025-07-23 18:38:31,795 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LAZIOUSDT&interval=1m&limit=100&startTime=1750714711340 HTTP/1.1" 200 3128
+2025-07-23 18:38:31,833 - INFO - Coletados 100 candles para LAZIOUSDT 1m
+2025-07-23 18:38:31,938 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LDOUSDT&interval=1m&limit=100&startTime=1750714711938
+2025-07-23 18:38:32,313 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LDOUSDT&interval=1m&limit=100&startTime=1750714711938 HTTP/1.1" 200 3723
+2025-07-23 18:38:32,339 - INFO - Coletados 100 candles para LDOUSDT 1m
+2025-07-23 18:38:32,450 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LINKUSDT&interval=1m&limit=100&startTime=1750714712450
+2025-07-23 18:38:32,819 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LINKUSDT&interval=1m&limit=100&startTime=1750714712450 HTTP/1.1" 200 3789
+2025-07-23 18:38:32,857 - INFO - Coletados 100 candles para LINKUSDT 1m
+2025-07-23 18:38:32,967 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LISTAUSDT&interval=1m&limit=100&startTime=1750714712967
+2025-07-23 18:38:33,443 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LISTAUSDT&interval=1m&limit=100&startTime=1750714712967 HTTP/1.1" 200 3011
+2025-07-23 18:38:33,472 - INFO - Coletados 100 candles para LISTAUSDT 1m
+2025-07-23 18:38:33,575 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LOKAUSDT&interval=1m&limit=100&startTime=1750714713575
+2025-07-23 18:38:34,060 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LOKAUSDT&interval=1m&limit=100&startTime=1750714713575 HTTP/1.1" 200 2698
+2025-07-23 18:38:34,088 - INFO - Coletados 100 candles para LOKAUSDT 1m
+2025-07-23 18:38:34,190 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LPTUSDT&interval=1m&limit=100&startTime=1750714714190
+2025-07-23 18:38:34,625 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LPTUSDT&interval=1m&limit=100&startTime=1750714714190 HTTP/1.1" 200 3848
+2025-07-23 18:38:34,650 - INFO - Coletados 100 candles para LPTUSDT 1m
+2025-07-23 18:38:34,754 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LQTYUSDT&interval=1m&limit=100&startTime=1750714714754
+2025-07-23 18:38:35,185 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LQTYUSDT&interval=1m&limit=100&startTime=1750714714754 HTTP/1.1" 200 3787
+2025-07-23 18:38:35,216 - INFO - Coletados 100 candles para LQTYUSDT 1m
+2025-07-23 18:38:35,321 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LRCUSDT&interval=1m&limit=100&startTime=1750714715321
+2025-07-23 18:38:35,690 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LRCUSDT&interval=1m&limit=100&startTime=1750714715321 HTTP/1.1" 200 2336
+2025-07-23 18:38:35,723 - INFO - Coletados 100 candles para LRCUSDT 1m
+2025-07-23 18:38:35,824 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LSKUSDT&interval=1m&limit=100&startTime=1750714715824
+2025-07-23 18:38:36,189 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LSKUSDT&interval=1m&limit=100&startTime=1750714715824 HTTP/1.1" 200 1734
+2025-07-23 18:38:36,207 - INFO - Coletados 100 candles para LSKUSDT 1m
+2025-07-23 18:38:36,316 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LTCUSDT&interval=1m&limit=100&startTime=1750714716316
+2025-07-23 18:38:36,709 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LTCUSDT&interval=1m&limit=100&startTime=1750714716316 HTTP/1.1" 200 4117
+2025-07-23 18:38:36,740 - INFO - Coletados 100 candles para LTCUSDT 1m
+2025-07-23 18:38:36,854 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LUMIAUSDT&interval=1m&limit=100&startTime=1750714716854
+2025-07-23 18:38:37,554 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LUMIAUSDT&interval=1m&limit=100&startTime=1750714716854 HTTP/1.1" 200 2625
+2025-07-23 18:38:37,569 - INFO - Coletados 100 candles para LUMIAUSDT 1m
+2025-07-23 18:38:37,680 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LUNAUSDT&interval=1m&limit=100&startTime=1750714717680
+2025-07-23 18:38:38,249 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LUNAUSDT&interval=1m&limit=100&startTime=1750714717680 HTTP/1.1" 200 3324
+2025-07-23 18:38:38,264 - INFO - Coletados 100 candles para LUNAUSDT 1m
+2025-07-23 18:38:38,366 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=LUNCUSDT&interval=1m&limit=100&startTime=1750714718366
+2025-07-23 18:38:38,724 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=LUNCUSDT&interval=1m&limit=100&startTime=1750714718366 HTTP/1.1" 200 4337
+2025-07-23 18:38:38,739 - INFO - Coletados 100 candles para LUNCUSDT 1m
+2025-07-23 18:38:38,847 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MAGICUSDT&interval=1m&limit=100&startTime=1750714718847
+2025-07-23 18:38:39,223 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MAGICUSDT&interval=1m&limit=100&startTime=1750714718847 HTTP/1.1" 200 3569
+2025-07-23 18:38:39,239 - INFO - Coletados 100 candles para MAGICUSDT 1m
+2025-07-23 18:38:39,341 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MANAUSDT&interval=1m&limit=100&startTime=1750714719341
+2025-07-23 18:38:39,999 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MANAUSDT&interval=1m&limit=100&startTime=1750714719341 HTTP/1.1" 200 3211
+2025-07-23 18:38:40,021 - INFO - Coletados 100 candles para MANAUSDT 1m
+2025-07-23 18:38:40,127 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MANTAUSDT&interval=1m&limit=100&startTime=1750714720127
+2025-07-23 18:38:40,510 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MANTAUSDT&interval=1m&limit=100&startTime=1750714720127 HTTP/1.1" 200 2658
+2025-07-23 18:38:40,531 - INFO - Coletados 100 candles para MANTAUSDT 1m
+2025-07-23 18:38:40,635 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MASKUSDT&interval=1m&limit=100&startTime=1750714720635
+2025-07-23 18:38:41,228 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MASKUSDT&interval=1m&limit=100&startTime=1750714720635 HTTP/1.1" 200 3224
+2025-07-23 18:38:41,297 - INFO - Coletados 100 candles para MASKUSDT 1m
+2025-07-23 18:38:41,399 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MAVUSDT&interval=1m&limit=100&startTime=1750714721399
+2025-07-23 18:38:41,737 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MAVUSDT&interval=1m&limit=100&startTime=1750714721399 HTTP/1.1" 200 3205
+2025-07-23 18:38:41,759 - INFO - Coletados 100 candles para MAVUSDT 1m
+2025-07-23 18:38:41,861 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MBLUSDT&interval=1m&limit=100&startTime=1750714721861
+2025-07-23 18:38:42,250 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MBLUSDT&interval=1m&limit=100&startTime=1750714721861 HTTP/1.1" 200 3710
+2025-07-23 18:38:42,270 - INFO - Coletados 100 candles para MBLUSDT 1m
+2025-07-23 18:38:42,374 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MBOXUSDT&interval=1m&limit=100&startTime=1750714722372
+2025-07-23 18:38:42,762 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MBOXUSDT&interval=1m&limit=100&startTime=1750714722372 HTTP/1.1" 200 2444
+2025-07-23 18:38:42,783 - INFO - Coletados 100 candles para MBOXUSDT 1m
+2025-07-23 18:38:42,886 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MDTUSDT&interval=1m&limit=100&startTime=1750714722886
+2025-07-23 18:38:43,478 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MDTUSDT&interval=1m&limit=100&startTime=1750714722886 HTTP/1.1" 200 3442
+2025-07-23 18:38:43,492 - INFO - Coletados 100 candles para MDTUSDT 1m
+2025-07-23 18:38:43,600 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MEMEUSDT&interval=1m&limit=100&startTime=1750714723600
+2025-07-23 18:38:43,989 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MEMEUSDT&interval=1m&limit=100&startTime=1750714723600 HTTP/1.1" 200 3678
+2025-07-23 18:38:44,010 - INFO - Coletados 100 candles para MEMEUSDT 1m
+2025-07-23 18:38:44,116 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=METISUSDT&interval=1m&limit=100&startTime=1750714724116
+2025-07-23 18:38:44,708 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=METISUSDT&interval=1m&limit=100&startTime=1750714724116 HTTP/1.1" 200 3216
+2025-07-23 18:38:44,740 - INFO - Coletados 100 candles para METISUSDT 1m
+2025-07-23 18:38:44,843 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MEUSDT&interval=1m&limit=100&startTime=1750714724842
+2025-07-23 18:38:45,218 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MEUSDT&interval=1m&limit=100&startTime=1750714724842 HTTP/1.1" 200 2655
+2025-07-23 18:38:45,238 - INFO - Coletados 100 candles para MEUSDT 1m
+2025-07-23 18:38:45,343 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MINAUSDT&interval=1m&limit=100&startTime=1750714725343
+2025-07-23 18:38:45,728 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MINAUSDT&interval=1m&limit=100&startTime=1750714725343 HTTP/1.1" 200 3192
+2025-07-23 18:38:45,744 - INFO - Coletados 100 candles para MINAUSDT 1m
+2025-07-23 18:38:45,852 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MKRUSDT&interval=1m&limit=100&startTime=1750714725852
+2025-07-23 18:38:46,245 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MKRUSDT&interval=1m&limit=100&startTime=1750714725852 HTTP/1.1" 200 3706
+2025-07-23 18:38:46,267 - INFO - Coletados 100 candles para MKRUSDT 1m
+2025-07-23 18:38:46,368 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MLNUSDT&interval=1m&limit=100&startTime=1750714726368
+2025-07-23 18:38:46,878 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MLNUSDT&interval=1m&limit=100&startTime=1750714726368 HTTP/1.1" 200 2562
+2025-07-23 18:38:46,895 - INFO - Coletados 100 candles para MLNUSDT 1m
+2025-07-23 18:38:47,005 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MOVEUSDT&interval=1m&limit=100&startTime=1750714727005
+2025-07-23 18:38:47,371 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MOVEUSDT&interval=1m&limit=100&startTime=1750714727005 HTTP/1.1" 200 3995
+2025-07-23 18:38:47,390 - INFO - Coletados 100 candles para MOVEUSDT 1m
+2025-07-23 18:38:47,493 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MOVRUSDT&interval=1m&limit=100&startTime=1750714727493
+2025-07-23 18:38:47,879 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MOVRUSDT&interval=1m&limit=100&startTime=1750714727493 HTTP/1.1" 200 2917
+2025-07-23 18:38:47,906 - INFO - Coletados 100 candles para MOVRUSDT 1m
+2025-07-23 18:38:48,008 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MTLUSDT&interval=1m&limit=100&startTime=1750714728008
+2025-07-23 18:38:48,596 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MTLUSDT&interval=1m&limit=100&startTime=1750714728008 HTTP/1.1" 200 2037
+2025-07-23 18:38:48,621 - INFO - Coletados 100 candles para MTLUSDT 1m
+2025-07-23 18:38:48,725 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=MUBARAKUSDT&interval=1m&limit=100&startTime=1750714728725
+2025-07-23 18:38:49,029 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=MUBARAKUSDT&interval=1m&limit=100&startTime=1750714728725 HTTP/1.1" 200 3505
+2025-07-23 18:38:49,055 - INFO - Coletados 100 candles para MUBARAKUSDT 1m
+2025-07-23 18:38:49,158 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NEARUSDT&interval=1m&limit=100&startTime=1750714729156
+2025-07-23 18:38:49,462 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NEARUSDT&interval=1m&limit=100&startTime=1750714729156 HTTP/1.1" 200 3764
+2025-07-23 18:38:49,486 - INFO - Coletados 100 candles para NEARUSDT 1m
+2025-07-23 18:38:49,588 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NEIROUSDT&interval=1m&limit=100&startTime=1750714729588
+2025-07-23 18:38:50,121 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NEIROUSDT&interval=1m&limit=100&startTime=1750714729588 HTTP/1.1" 200 4766
+2025-07-23 18:38:50,144 - INFO - Coletados 100 candles para NEIROUSDT 1m
+2025-07-23 18:38:50,251 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NEOUSDT&interval=1m&limit=100&startTime=1750714730251
+2025-07-23 18:38:50,647 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NEOUSDT&interval=1m&limit=100&startTime=1750714730251 HTTP/1.1" 200 2994
+2025-07-23 18:38:50,663 - INFO - Coletados 100 candles para NEOUSDT 1m
+2025-07-23 18:38:50,766 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NEWTUSDT&interval=1m&limit=100&startTime=1750714730766
+2025-07-23 18:38:51,155 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NEWTUSDT&interval=1m&limit=100&startTime=1750714730766 HTTP/1.1" 200 4837
+2025-07-23 18:38:51,180 - INFO - Coletados 100 candles para NEWTUSDT 1m
+2025-07-23 18:38:51,281 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NEXOUSDT&interval=1m&limit=100&startTime=1750714731281
+2025-07-23 18:38:51,671 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NEXOUSDT&interval=1m&limit=100&startTime=1750714731281 HTTP/1.1" 200 2898
+2025-07-23 18:38:51,692 - INFO - Coletados 100 candles para NEXOUSDT 1m
+2025-07-23 18:38:51,795 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NFPUSDT&interval=1m&limit=100&startTime=1750714731795
+2025-07-23 18:38:52,183 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NFPUSDT&interval=1m&limit=100&startTime=1750714731795 HTTP/1.1" 200 2522
+2025-07-23 18:38:52,200 - INFO - Coletados 100 candles para NFPUSDT 1m
+2025-07-23 18:38:52,301 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NILUSDT&interval=1m&limit=100&startTime=1750714732301
+2025-07-23 18:38:52,696 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NILUSDT&interval=1m&limit=100&startTime=1750714732301 HTTP/1.1" 200 3426
+2025-07-23 18:38:52,713 - INFO - Coletados 100 candles para NILUSDT 1m
+2025-07-23 18:38:52,818 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NKNUSDT&interval=1m&limit=100&startTime=1750714732818
+2025-07-23 18:38:53,312 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NKNUSDT&interval=1m&limit=100&startTime=1750714732818 HTTP/1.1" 200 2367
+2025-07-23 18:38:53,338 - INFO - Coletados 100 candles para NKNUSDT 1m
+2025-07-23 18:38:53,442 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NMRUSDT&interval=1m&limit=100&startTime=1750714733442
+2025-07-23 18:38:53,813 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NMRUSDT&interval=1m&limit=100&startTime=1750714733442 HTTP/1.1" 200 2081
+2025-07-23 18:38:53,843 - INFO - Coletados 100 candles para NMRUSDT 1m
+2025-07-23 18:38:53,950 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NOTUSDT&interval=1m&limit=100&startTime=1750714733950
+2025-07-23 18:38:54,334 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NOTUSDT&interval=1m&limit=100&startTime=1750714733950 HTTP/1.1" 200 3568
+2025-07-23 18:38:54,354 - INFO - Coletados 100 candles para NOTUSDT 1m
+2025-07-23 18:38:54,457 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NTRNUSDT&interval=1m&limit=100&startTime=1750714734457
+2025-07-23 18:38:54,772 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NTRNUSDT&interval=1m&limit=100&startTime=1750714734457 HTTP/1.1" 200 2646
+2025-07-23 18:38:54,788 - INFO - Coletados 100 candles para NTRNUSDT 1m
+2025-07-23 18:38:54,895 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=NXPCUSDT&interval=1m&limit=100&startTime=1750714734895
+2025-07-23 18:38:55,256 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=NXPCUSDT&interval=1m&limit=100&startTime=1750714734895 HTTP/1.1" 200 3895
+2025-07-23 18:38:55,281 - INFO - Coletados 100 candles para NXPCUSDT 1m
+2025-07-23 18:38:55,382 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OGNUSDT&interval=1m&limit=100&startTime=1750714735382
+2025-07-23 18:38:55,888 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OGNUSDT&interval=1m&limit=100&startTime=1750714735382 HTTP/1.1" 200 2318
+2025-07-23 18:38:55,918 - INFO - Coletados 100 candles para OGNUSDT 1m
+2025-07-23 18:38:56,019 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OGUSDT&interval=1m&limit=100&startTime=1750714736019
+2025-07-23 18:38:56,396 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OGUSDT&interval=1m&limit=100&startTime=1750714736019 HTTP/1.1" 200 2771
+2025-07-23 18:38:56,425 - INFO - Coletados 100 candles para OGUSDT 1m
+2025-07-23 18:38:56,528 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OMNIUSDT&interval=1m&limit=100&startTime=1750714736528
+2025-07-23 18:38:57,202 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OMNIUSDT&interval=1m&limit=100&startTime=1750714736528 HTTP/1.1" 200 1976
+2025-07-23 18:38:57,226 - INFO - Coletados 100 candles para OMNIUSDT 1m
+2025-07-23 18:38:57,332 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OMUSDT&interval=1m&limit=100&startTime=1750714737332
+2025-07-23 18:38:57,719 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OMUSDT&interval=1m&limit=100&startTime=1750714737332 HTTP/1.1" 200 3776
+2025-07-23 18:38:57,752 - INFO - Coletados 100 candles para OMUSDT 1m
+2025-07-23 18:38:57,855 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ONDOUSDT&interval=1m&limit=100&startTime=1750714737855
+2025-07-23 18:38:58,341 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ONDOUSDT&interval=1m&limit=100&startTime=1750714737855 HTTP/1.1" 200 4148
+2025-07-23 18:38:58,372 - INFO - Coletados 100 candles para ONDOUSDT 1m
+2025-07-23 18:38:58,477 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ONEUSDT&interval=1m&limit=100&startTime=1750714738477
+2025-07-23 18:38:58,840 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ONEUSDT&interval=1m&limit=100&startTime=1750714738477 HTTP/1.1" 200 3279
+2025-07-23 18:38:58,858 - INFO - Coletados 100 candles para ONEUSDT 1m
+2025-07-23 18:38:58,966 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ONGUSDT&interval=1m&limit=100&startTime=1750714738966
+2025-07-23 18:38:59,347 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ONGUSDT&interval=1m&limit=100&startTime=1750714738966 HTTP/1.1" 200 3137
+2025-07-23 18:38:59,363 - INFO - Coletados 100 candles para ONGUSDT 1m
+2025-07-23 18:38:59,478 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ONTUSDT&interval=1m&limit=100&startTime=1750714739478
+2025-07-23 18:38:59,857 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ONTUSDT&interval=1m&limit=100&startTime=1750714739478 HTTP/1.1" 200 2787
+2025-07-23 18:38:59,890 - INFO - Coletados 100 candles para ONTUSDT 1m
+2025-07-23 18:38:59,991 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OPUSDT&interval=1m&limit=100&startTime=1750714739991
+2025-07-23 18:39:00,371 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OPUSDT&interval=1m&limit=100&startTime=1750714739991 HTTP/1.1" 200 3663
+2025-07-23 18:39:00,394 - INFO - Coletados 100 candles para OPUSDT 1m
+2025-07-23 18:39:00,497 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ORCAUSDT&interval=1m&limit=100&startTime=1750714740497
+2025-07-23 18:39:00,881 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ORCAUSDT&interval=1m&limit=100&startTime=1750714740497 HTTP/1.1" 200 3224
+2025-07-23 18:39:00,909 - INFO - Coletados 100 candles para ORCAUSDT 1m
+2025-07-23 18:39:01,010 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ORDIUSDT&interval=1m&limit=100&startTime=1750714741010
+2025-07-23 18:39:01,406 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ORDIUSDT&interval=1m&limit=100&startTime=1750714741010 HTTP/1.1" 200 3839
+2025-07-23 18:39:01,425 - INFO - Coletados 100 candles para ORDIUSDT 1m
+2025-07-23 18:39:01,527 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OSMOUSDT&interval=1m&limit=100&startTime=1750714741527
+2025-07-23 18:39:01,912 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OSMOUSDT&interval=1m&limit=100&startTime=1750714741527 HTTP/1.1" 200 3447
+2025-07-23 18:39:01,928 - INFO - Coletados 100 candles para OSMOUSDT 1m
+2025-07-23 18:39:02,040 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=OXTUSDT&interval=1m&limit=100&startTime=1750714742040
+2025-07-23 18:39:02,519 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=OXTUSDT&interval=1m&limit=100&startTime=1750714742040 HTTP/1.1" 200 2257
+2025-07-23 18:39:02,546 - INFO - Coletados 100 candles para OXTUSDT 1m
+2025-07-23 18:39:02,647 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PARTIUSDT&interval=1m&limit=100&startTime=1750714742647
+2025-07-23 18:39:03,038 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PARTIUSDT&interval=1m&limit=100&startTime=1750714742647 HTTP/1.1" 200 2847
+2025-07-23 18:39:03,052 - INFO - Coletados 100 candles para PARTIUSDT 1m
+2025-07-23 18:39:03,161 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PAXGUSDT&interval=1m&limit=100&startTime=1750714743161
+2025-07-23 18:39:03,550 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PAXGUSDT&interval=1m&limit=100&startTime=1750714743161 HTTP/1.1" 200 4728
+2025-07-23 18:39:03,574 - INFO - Coletados 100 candles para PAXGUSDT 1m
+2025-07-23 18:39:03,675 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PENDLEUSDT&interval=1m&limit=100&startTime=1750714743675
+2025-07-23 18:39:04,165 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PENDLEUSDT&interval=1m&limit=100&startTime=1750714743675 HTTP/1.1" 200 3811
+2025-07-23 18:39:04,184 - INFO - Coletados 100 candles para PENDLEUSDT 1m
+2025-07-23 18:39:04,287 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PENGUUSDT&interval=1m&limit=100&startTime=1750714744287
+2025-07-23 18:39:04,613 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PENGUUSDT&interval=1m&limit=100&startTime=1750714744287 HTTP/1.1" 200 4336
+2025-07-23 18:39:04,642 - INFO - Coletados 100 candles para PENGUUSDT 1m
+2025-07-23 18:39:04,746 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PEOPLEUSDT&interval=1m&limit=100&startTime=1750714744746
+2025-07-23 18:39:05,076 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PEOPLEUSDT&interval=1m&limit=100&startTime=1750714744746 HTTP/1.1" 200 3837
+2025-07-23 18:39:05,106 - INFO - Coletados 100 candles para PEOPLEUSDT 1m
+2025-07-23 18:39:05,213 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PEPEUSDT&interval=1m&limit=100&startTime=1750714745213
+2025-07-23 18:39:05,586 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PEPEUSDT&interval=1m&limit=100&startTime=1750714745213 HTTP/1.1" 200 4687
+2025-07-23 18:39:05,620 - INFO - Coletados 100 candles para PEPEUSDT 1m
+2025-07-23 18:39:05,722 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PERPUSDT&interval=1m&limit=100&startTime=1750714745722
+2025-07-23 18:39:06,109 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PERPUSDT&interval=1m&limit=100&startTime=1750714745722 HTTP/1.1" 200 3008
+2025-07-23 18:39:06,125 - INFO - Coletados 100 candles para PERPUSDT 1m
+2025-07-23 18:39:06,229 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PHAUSDT&interval=1m&limit=100&startTime=1750714746229
+2025-07-23 18:39:06,826 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PHAUSDT&interval=1m&limit=100&startTime=1750714746229 HTTP/1.1" 200 2660
+2025-07-23 18:39:06,847 - INFO - Coletados 100 candles para PHAUSDT 1m
+2025-07-23 18:39:06,951 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PHBUSDT&interval=1m&limit=100&startTime=1750714746951
+2025-07-23 18:39:07,340 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PHBUSDT&interval=1m&limit=100&startTime=1750714746951 HTTP/1.1" 200 2418
+2025-07-23 18:39:07,356 - INFO - Coletados 100 candles para PHBUSDT 1m
+2025-07-23 18:39:07,461 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PIVXUSDT&interval=1m&limit=100&startTime=1750714747461
+2025-07-23 18:39:07,851 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PIVXUSDT&interval=1m&limit=100&startTime=1750714747461 HTTP/1.1" 200 3112
+2025-07-23 18:39:07,871 - INFO - Coletados 100 candles para PIVXUSDT 1m
+2025-07-23 18:39:07,973 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PIXELUSDT&interval=1m&limit=100&startTime=1750714747973
+2025-07-23 18:39:08,363 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PIXELUSDT&interval=1m&limit=100&startTime=1750714747973 HTTP/1.1" 200 3932
+2025-07-23 18:39:08,377 - INFO - Coletados 100 candles para PIXELUSDT 1m
+2025-07-23 18:39:08,484 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PNUTUSDT&interval=1m&limit=100&startTime=1750714748484
+2025-07-23 18:39:08,875 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PNUTUSDT&interval=1m&limit=100&startTime=1750714748484 HTTP/1.1" 200 4071
+2025-07-23 18:39:08,904 - INFO - Coletados 100 candles para PNUTUSDT 1m
+2025-07-23 18:39:09,010 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=POLUSDT&interval=1m&limit=100&startTime=1750714749010
+2025-07-23 18:39:09,367 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=POLUSDT&interval=1m&limit=100&startTime=1750714749010 HTTP/1.1" 200 3860
+2025-07-23 18:39:09,403 - INFO - Coletados 100 candles para POLUSDT 1m
+2025-07-23 18:39:09,504 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=POLYXUSDT&interval=1m&limit=100&startTime=1750714749504
+2025-07-23 18:39:09,899 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=POLYXUSDT&interval=1m&limit=100&startTime=1750714749504 HTTP/1.1" 200 2432
+2025-07-23 18:39:09,923 - INFO - Coletados 100 candles para POLYXUSDT 1m
+2025-07-23 18:39:10,026 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PONDUSDT&interval=1m&limit=100&startTime=1750714750026
+2025-07-23 18:39:10,339 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PONDUSDT&interval=1m&limit=100&startTime=1750714750026 HTTP/1.1" 200 3074
+2025-07-23 18:39:10,353 - INFO - Coletados 100 candles para PONDUSDT 1m
+2025-07-23 18:39:10,470 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PORTALUSDT&interval=1m&limit=100&startTime=1750714750470
+2025-07-23 18:39:10,821 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PORTALUSDT&interval=1m&limit=100&startTime=1750714750470 HTTP/1.1" 200 2778
+2025-07-23 18:39:10,848 - INFO - Coletados 100 candles para PORTALUSDT 1m
+2025-07-23 18:39:10,953 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PORTOUSDT&interval=1m&limit=100&startTime=1750714750953
+2025-07-23 18:39:11,332 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PORTOUSDT&interval=1m&limit=100&startTime=1750714750953 HTTP/1.1" 200 3052
+2025-07-23 18:39:11,359 - INFO - Coletados 100 candles para PORTOUSDT 1m
+2025-07-23 18:39:11,460 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=POWRUSDT&interval=1m&limit=100&startTime=1750714751460
+2025-07-23 18:39:11,843 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=POWRUSDT&interval=1m&limit=100&startTime=1750714751460 HTTP/1.1" 200 1885
+2025-07-23 18:39:11,869 - INFO - Coletados 100 candles para POWRUSDT 1m
+2025-07-23 18:39:11,971 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PROMUSDT&interval=1m&limit=100&startTime=1750714751971
+2025-07-23 18:39:12,355 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PROMUSDT&interval=1m&limit=100&startTime=1750714751971 HTTP/1.1" 200 3842
+2025-07-23 18:39:12,388 - INFO - Coletados 100 candles para PROMUSDT 1m
+2025-07-23 18:39:12,491 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PSGUSDT&interval=1m&limit=100&startTime=1750714752491
+2025-07-23 18:39:12,869 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PSGUSDT&interval=1m&limit=100&startTime=1750714752491 HTTP/1.1" 200 3259
+2025-07-23 18:39:12,877 - INFO - Coletados 100 candles para PSGUSDT 1m
+2025-07-23 18:39:12,992 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PUNDIXUSDT&interval=1m&limit=100&startTime=1750714752992
+2025-07-23 18:39:13,380 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PUNDIXUSDT&interval=1m&limit=100&startTime=1750714752992 HTTP/1.1" 200 2698
+2025-07-23 18:39:13,451 - INFO - Coletados 100 candles para PUNDIXUSDT 1m
+2025-07-23 18:39:13,552 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PYRUSDT&interval=1m&limit=100&startTime=1750714753552
+2025-07-23 18:39:13,994 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PYRUSDT&interval=1m&limit=100&startTime=1750714753552 HTTP/1.1" 200 2916
+2025-07-23 18:39:14,010 - INFO - Coletados 100 candles para PYRUSDT 1m
+2025-07-23 18:39:14,120 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=PYTHUSDT&interval=1m&limit=100&startTime=1750714754120
+2025-07-23 18:39:14,415 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=PYTHUSDT&interval=1m&limit=100&startTime=1750714754120 HTTP/1.1" 200 3430
+2025-07-23 18:39:14,437 - INFO - Coletados 100 candles para PYTHUSDT 1m
+2025-07-23 18:39:14,540 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=QIUSDT&interval=1m&limit=100&startTime=1750714754540
+2025-07-23 18:39:14,966 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=QIUSDT&interval=1m&limit=100&startTime=1750714754540 HTTP/1.1" 200 3098
+2025-07-23 18:39:14,993 - INFO - Coletados 100 candles para QIUSDT 1m
+2025-07-23 18:39:15,101 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=QKCUSDT&interval=1m&limit=100&startTime=1750714755101
+2025-07-23 18:39:15,428 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=QKCUSDT&interval=1m&limit=100&startTime=1750714755101 HTTP/1.1" 200 3397
+2025-07-23 18:39:15,451 - INFO - Coletados 100 candles para QKCUSDT 1m
+2025-07-23 18:39:15,555 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=QNTUSDT&interval=1m&limit=100&startTime=1750714755555
+2025-07-23 18:39:15,873 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=QNTUSDT&interval=1m&limit=100&startTime=1750714755555 HTTP/1.1" 200 3825
+2025-07-23 18:39:15,903 - INFO - Coletados 100 candles para QNTUSDT 1m
+2025-07-23 18:39:16,007 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=QTUMUSDT&interval=1m&limit=100&startTime=1750714756007
+2025-07-23 18:39:16,350 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=QTUMUSDT&interval=1m&limit=100&startTime=1750714756007 HTTP/1.1" 200 2787
+2025-07-23 18:39:16,432 - INFO - Coletados 100 candles para QTUMUSDT 1m
+2025-07-23 18:39:16,535 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=QUICKUSDT&interval=1m&limit=100&startTime=1750714756535
+2025-07-23 18:39:16,912 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=QUICKUSDT&interval=1m&limit=100&startTime=1750714756535 HTTP/1.1" 200 2820
+2025-07-23 18:39:16,930 - INFO - Coletados 100 candles para QUICKUSDT 1m
+2025-07-23 18:39:17,038 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RADUSDT&interval=1m&limit=100&startTime=1750714757038
+2025-07-23 18:39:17,476 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RADUSDT&interval=1m&limit=100&startTime=1750714757038 HTTP/1.1" 200 2433
+2025-07-23 18:39:17,492 - INFO - Coletados 100 candles para RADUSDT 1m
+2025-07-23 18:39:17,594 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RAREUSDT&interval=1m&limit=100&startTime=1750714757594
+2025-07-23 18:39:17,982 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RAREUSDT&interval=1m&limit=100&startTime=1750714757594 HTTP/1.1" 200 2436
+2025-07-23 18:39:18,009 - INFO - Coletados 100 candles para RAREUSDT 1m
+2025-07-23 18:39:18,111 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RAYUSDT&interval=1m&limit=100&startTime=1750714758111
+2025-07-23 18:39:18,489 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RAYUSDT&interval=1m&limit=100&startTime=1750714758111 HTTP/1.1" 200 3619
+2025-07-23 18:39:18,519 - INFO - Coletados 100 candles para RAYUSDT 1m
+2025-07-23 18:39:18,624 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RDNTUSDT&interval=1m&limit=100&startTime=1750714758624
+2025-07-23 18:39:19,001 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RDNTUSDT&interval=1m&limit=100&startTime=1750714758624 HTTP/1.1" 200 2388
+2025-07-23 18:39:19,026 - INFO - Coletados 100 candles para RDNTUSDT 1m
+2025-07-23 18:39:19,132 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=REDUSDT&interval=1m&limit=100&startTime=1750714759132
+2025-07-23 18:39:19,430 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=REDUSDT&interval=1m&limit=100&startTime=1750714759132 HTTP/1.1" 200 2959
+2025-07-23 18:39:19,452 - INFO - Coletados 100 candles para REDUSDT 1m
+2025-07-23 18:39:19,562 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=REIUSDT&interval=1m&limit=100&startTime=1750714759562
+2025-07-23 18:39:19,860 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=REIUSDT&interval=1m&limit=100&startTime=1750714759562 HTTP/1.1" 200 3189
+2025-07-23 18:39:19,894 - INFO - Coletados 100 candles para REIUSDT 1m
+2025-07-23 18:39:19,995 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RENDERUSDT&interval=1m&limit=100&startTime=1750714759995
+2025-07-23 18:39:20,354 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RENDERUSDT&interval=1m&limit=100&startTime=1750714759995 HTTP/1.1" 200 4013
+2025-07-23 18:39:20,374 - INFO - Coletados 100 candles para RENDERUSDT 1m
+2025-07-23 18:39:20,488 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=REQUSDT&interval=1m&limit=100&startTime=1750714760488
+2025-07-23 18:39:20,855 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=REQUSDT&interval=1m&limit=100&startTime=1750714760488 HTTP/1.1" 200 2902
+2025-07-23 18:39:20,866 - INFO - Coletados 100 candles para REQUSDT 1m
+2025-07-23 18:39:20,979 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RESOLVUSDT&interval=1m&limit=100&startTime=1750714760979
+2025-07-23 18:39:21,362 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RESOLVUSDT&interval=1m&limit=100&startTime=1750714760979 HTTP/1.1" 200 3852
+2025-07-23 18:39:21,378 - INFO - Coletados 100 candles para RESOLVUSDT 1m
+2025-07-23 18:39:21,490 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=REZUSDT&interval=1m&limit=100&startTime=1750714761490
+2025-07-23 18:39:21,879 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=REZUSDT&interval=1m&limit=100&startTime=1750714761490 HTTP/1.1" 200 3320
+2025-07-23 18:39:21,888 - INFO - Coletados 100 candles para REZUSDT 1m
+2025-07-23 18:39:22,005 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RIFUSDT&interval=1m&limit=100&startTime=1750714762005
+2025-07-23 18:39:22,391 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RIFUSDT&interval=1m&limit=100&startTime=1750714762005 HTTP/1.1" 200 1919
+2025-07-23 18:39:22,402 - INFO - Coletados 100 candles para RIFUSDT 1m
+2025-07-23 18:39:22,508 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RLCUSDT&interval=1m&limit=100&startTime=1750714762508
+2025-07-23 18:39:22,896 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RLCUSDT&interval=1m&limit=100&startTime=1750714762508 HTTP/1.1" 200 2544
+2025-07-23 18:39:22,916 - INFO - Coletados 100 candles para RLCUSDT 1m
+2025-07-23 18:39:23,027 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RONINUSDT&interval=1m&limit=100&startTime=1750714763027
+2025-07-23 18:39:23,406 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RONINUSDT&interval=1m&limit=100&startTime=1750714763027 HTTP/1.1" 200 2726
+2025-07-23 18:39:23,453 - INFO - Coletados 100 candles para RONINUSDT 1m
+2025-07-23 18:39:23,561 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ROSEUSDT&interval=1m&limit=100&startTime=1750714763561
+2025-07-23 18:39:23,928 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ROSEUSDT&interval=1m&limit=100&startTime=1750714763561 HTTP/1.1" 200 3616
+2025-07-23 18:39:23,948 - INFO - Coletados 100 candles para ROSEUSDT 1m
+2025-07-23 18:39:24,061 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RPLUSDT&interval=1m&limit=100&startTime=1750714764061
+2025-07-23 18:39:24,430 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RPLUSDT&interval=1m&limit=100&startTime=1750714764061 HTTP/1.1" 200 2631
+2025-07-23 18:39:24,458 - INFO - Coletados 100 candles para RPLUSDT 1m
+2025-07-23 18:39:24,559 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RSRUSDT&interval=1m&limit=100&startTime=1750714764559
+2025-07-23 18:39:24,942 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RSRUSDT&interval=1m&limit=100&startTime=1750714764559 HTTP/1.1" 200 4074
+2025-07-23 18:39:24,969 - INFO - Coletados 100 candles para RSRUSDT 1m
+2025-07-23 18:39:25,073 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RUNEUSDT&interval=1m&limit=100&startTime=1750714765073
+2025-07-23 18:39:25,464 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RUNEUSDT&interval=1m&limit=100&startTime=1750714765073 HTTP/1.1" 200 3571
+2025-07-23 18:39:25,479 - INFO - Coletados 100 candles para RUNEUSDT 1m
+2025-07-23 18:39:25,586 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=RVNUSDT&interval=1m&limit=100&startTime=1750714765586
+2025-07-23 18:39:25,977 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=RVNUSDT&interval=1m&limit=100&startTime=1750714765586 HTTP/1.1" 200 3714
+2025-07-23 18:39:25,997 - INFO - Coletados 100 candles para RVNUSDT 1m
+2025-07-23 18:39:26,100 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SAGAUSDT&interval=1m&limit=100&startTime=1750714766100
+2025-07-23 18:39:26,487 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SAGAUSDT&interval=1m&limit=100&startTime=1750714766100 HTTP/1.1" 200 3475
+2025-07-23 18:39:26,505 - INFO - Coletados 100 candles para SAGAUSDT 1m
+2025-07-23 18:39:26,612 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SAHARAUSDT&interval=1m&limit=100&startTime=1750714766612
+2025-07-23 18:39:27,000 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SAHARAUSDT&interval=1m&limit=100&startTime=1750714766612 HTTP/1.1" 200 4766
+2025-07-23 18:39:27,024 - INFO - Coletados 100 candles para SAHARAUSDT 1m
+2025-07-23 18:39:27,128 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SANDUSDT&interval=1m&limit=100&startTime=1750714767128
+2025-07-23 18:39:27,431 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SANDUSDT&interval=1m&limit=100&startTime=1750714767128 HTTP/1.1" 200 3440
+2025-07-23 18:39:27,459 - INFO - Coletados 100 candles para SANDUSDT 1m
+2025-07-23 18:39:27,561 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SANTOSUSDT&interval=1m&limit=100&startTime=1750714767561
+2025-07-23 18:39:27,881 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SANTOSUSDT&interval=1m&limit=100&startTime=1750714767561 HTTP/1.1" 200 2756
+2025-07-23 18:39:27,909 - INFO - Coletados 100 candles para SANTOSUSDT 1m
+2025-07-23 18:39:28,016 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SCRTUSDT&interval=1m&limit=100&startTime=1750714768016
+2025-07-23 18:39:28,418 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SCRTUSDT&interval=1m&limit=100&startTime=1750714768016 HTTP/1.1" 200 2456
+2025-07-23 18:39:28,498 - INFO - Coletados 100 candles para SCRTUSDT 1m
+2025-07-23 18:39:28,610 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SCRUSDT&interval=1m&limit=100&startTime=1750714768610
+2025-07-23 18:39:29,352 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SCRUSDT&interval=1m&limit=100&startTime=1750714768610 HTTP/1.1" 200 1788
+2025-07-23 18:39:29,382 - INFO - Coletados 100 candles para SCRUSDT 1m
+2025-07-23 18:39:29,490 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SCUSDT&interval=1m&limit=100&startTime=1750714769490
+2025-07-23 18:39:29,866 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SCUSDT&interval=1m&limit=100&startTime=1750714769490 HTTP/1.1" 200 3513
+2025-07-23 18:39:29,890 - INFO - Coletados 100 candles para SCUSDT 1m
+2025-07-23 18:39:29,997 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SEIUSDT&interval=1m&limit=100&startTime=1750714769997
+2025-07-23 18:39:30,478 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SEIUSDT&interval=1m&limit=100&startTime=1750714769997 HTTP/1.1" 200 4207
+2025-07-23 18:39:30,509 - INFO - Coletados 100 candles para SEIUSDT 1m
+2025-07-23 18:39:30,611 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SFPUSDT&interval=1m&limit=100&startTime=1750714770611
+2025-07-23 18:39:30,993 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SFPUSDT&interval=1m&limit=100&startTime=1750714770611 HTTP/1.1" 200 3132
+2025-07-23 18:39:31,018 - INFO - Coletados 100 candles para SFPUSDT 1m
+2025-07-23 18:39:31,124 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SHELLUSDT&interval=1m&limit=100&startTime=1750714771124
+2025-07-23 18:39:31,502 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SHELLUSDT&interval=1m&limit=100&startTime=1750714771124 HTTP/1.1" 200 3221
+2025-07-23 18:39:31,533 - INFO - Coletados 100 candles para SHELLUSDT 1m
+2025-07-23 18:39:31,641 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SHIBUSDT&interval=1m&limit=100&startTime=1750714771641
+2025-07-23 18:39:32,012 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SHIBUSDT&interval=1m&limit=100&startTime=1750714771641 HTTP/1.1" 200 4297
+2025-07-23 18:39:32,044 - INFO - Coletados 100 candles para SHIBUSDT 1m
+2025-07-23 18:39:32,145 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SIGNUSDT&interval=1m&limit=100&startTime=1750714772145
+2025-07-23 18:39:32,528 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SIGNUSDT&interval=1m&limit=100&startTime=1750714772145 HTTP/1.1" 200 3470
+2025-07-23 18:39:32,540 - INFO - Coletados 100 candles para SIGNUSDT 1m
+2025-07-23 18:39:32,655 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SKLUSDT&interval=1m&limit=100&startTime=1750714772655
+2025-07-23 18:39:33,039 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SKLUSDT&interval=1m&limit=100&startTime=1750714772655 HTTP/1.1" 200 2993
+2025-07-23 18:39:33,068 - INFO - Coletados 100 candles para SKLUSDT 1m
+2025-07-23 18:39:33,171 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SLFUSDT&interval=1m&limit=100&startTime=1750714773171
+2025-07-23 18:39:33,543 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SLFUSDT&interval=1m&limit=100&startTime=1750714773171 HTTP/1.1" 200 3292
+2025-07-23 18:39:33,575 - INFO - Coletados 100 candles para SLFUSDT 1m
+2025-07-23 18:39:33,676 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SLPUSDT&interval=1m&limit=100&startTime=1750714773676
+2025-07-23 18:39:33,993 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SLPUSDT&interval=1m&limit=100&startTime=1750714773676 HTTP/1.1" 200 3333
+2025-07-23 18:39:34,033 - INFO - Coletados 100 candles para SLPUSDT 1m
+2025-07-23 18:39:34,137 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SNXUSDT&interval=1m&limit=100&startTime=1750714774137
+2025-07-23 18:39:34,578 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SNXUSDT&interval=1m&limit=100&startTime=1750714774137 HTTP/1.1" 200 2531
+2025-07-23 18:39:34,595 - INFO - Coletados 100 candles para SNXUSDT 1m
+2025-07-23 18:39:34,698 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SOLUSDT&interval=1m&limit=100&startTime=1750714774698
+2025-07-23 18:39:35,090 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SOLUSDT&interval=1m&limit=100&startTime=1750714774698 HTTP/1.1" 200 4657
+2025-07-23 18:39:35,110 - INFO - Coletados 100 candles para SOLUSDT 1m
+2025-07-23 18:39:35,214 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SOLVUSDT&interval=1m&limit=100&startTime=1750714775214
+2025-07-23 18:39:35,796 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SOLVUSDT&interval=1m&limit=100&startTime=1750714775214 HTTP/1.1" 200 3512
+2025-07-23 18:39:35,830 - INFO - Coletados 100 candles para SOLVUSDT 1m
+2025-07-23 18:39:35,931 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SOPHUSDT&interval=1m&limit=100&startTime=1750714775931
+2025-07-23 18:39:36,318 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SOPHUSDT&interval=1m&limit=100&startTime=1750714775931 HTTP/1.1" 200 3453
+2025-07-23 18:39:36,341 - INFO - Coletados 100 candles para SOPHUSDT 1m
+2025-07-23 18:39:36,443 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SPELLUSDT&interval=1m&limit=100&startTime=1750714776443
+2025-07-23 18:39:36,929 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SPELLUSDT&interval=1m&limit=100&startTime=1750714776443 HTTP/1.1" 200 3054
+2025-07-23 18:39:36,955 - INFO - Coletados 100 candles para SPELLUSDT 1m
+2025-07-23 18:39:37,058 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SPKUSDT&interval=1m&limit=100&startTime=1750714777058
+2025-07-23 18:39:37,438 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SPKUSDT&interval=1m&limit=100&startTime=1750714777058 HTTP/1.1" 200 4223
+2025-07-23 18:39:37,467 - INFO - Coletados 100 candles para SPKUSDT 1m
+2025-07-23 18:39:37,571 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SSVUSDT&interval=1m&limit=100&startTime=1750714777571
+2025-07-23 18:39:37,951 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SSVUSDT&interval=1m&limit=100&startTime=1750714777571 HTTP/1.1" 200 3088
+2025-07-23 18:39:37,975 - INFO - Coletados 100 candles para SSVUSDT 1m
+2025-07-23 18:39:38,081 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STEEMUSDT&interval=1m&limit=100&startTime=1750714778081
+2025-07-23 18:39:38,469 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STEEMUSDT&interval=1m&limit=100&startTime=1750714778081 HTTP/1.1" 200 2415
+2025-07-23 18:39:38,499 - INFO - Coletados 100 candles para STEEMUSDT 1m
+2025-07-23 18:39:38,609 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STGUSDT&interval=1m&limit=100&startTime=1750714778609
+2025-07-23 18:39:38,913 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STGUSDT&interval=1m&limit=100&startTime=1750714778609 HTTP/1.1" 200 2590
+2025-07-23 18:39:38,927 - INFO - Coletados 100 candles para STGUSDT 1m
+2025-07-23 18:39:39,040 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STORJUSDT&interval=1m&limit=100&startTime=1750714779040
+2025-07-23 18:39:39,390 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STORJUSDT&interval=1m&limit=100&startTime=1750714779040 HTTP/1.1" 200 2675
+2025-07-23 18:39:39,414 - INFO - Coletados 100 candles para STORJUSDT 1m
+2025-07-23 18:39:39,516 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STOUSDT&interval=1m&limit=100&startTime=1750714779516
+2025-07-23 18:39:39,897 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STOUSDT&interval=1m&limit=100&startTime=1750714779516 HTTP/1.1" 200 2724
+2025-07-23 18:39:39,928 - INFO - Coletados 100 candles para STOUSDT 1m
+2025-07-23 18:39:40,032 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STRAXUSDT&interval=1m&limit=100&startTime=1750714780032
+2025-07-23 18:39:40,412 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STRAXUSDT&interval=1m&limit=100&startTime=1750714780032 HTTP/1.1" 200 3093
+2025-07-23 18:39:40,422 - INFO - Coletados 100 candles para STRAXUSDT 1m
+2025-07-23 18:39:40,534 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STRKUSDT&interval=1m&limit=100&startTime=1750714780534
+2025-07-23 18:39:40,836 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STRKUSDT&interval=1m&limit=100&startTime=1750714780534 HTTP/1.1" 200 3828
+2025-07-23 18:39:40,868 - INFO - Coletados 100 candles para STRKUSDT 1m
+2025-07-23 18:39:40,970 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=STXUSDT&interval=1m&limit=100&startTime=1750714780970
+2025-07-23 18:39:41,334 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=STXUSDT&interval=1m&limit=100&startTime=1750714780970 HTTP/1.1" 200 2988
+2025-07-23 18:39:41,348 - INFO - Coletados 100 candles para STXUSDT 1m
+2025-07-23 18:39:41,458 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SUIUSDT&interval=1m&limit=100&startTime=1750714781458
+2025-07-23 18:39:42,354 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SUIUSDT&interval=1m&limit=100&startTime=1750714781458 HTTP/1.1" 200 4452
+2025-07-23 18:39:42,375 - INFO - Coletados 100 candles para SUIUSDT 1m
+2025-07-23 18:39:42,484 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SUNUSDT&interval=1m&limit=100&startTime=1750714782484
+2025-07-23 18:39:42,870 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SUNUSDT&interval=1m&limit=100&startTime=1750714782484 HTTP/1.1" 200 2487
+2025-07-23 18:39:42,896 - INFO - Coletados 100 candles para SUNUSDT 1m
+2025-07-23 18:39:42,997 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SUPERUSDT&interval=1m&limit=100&startTime=1750714782997
+2025-07-23 18:39:43,375 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SUPERUSDT&interval=1m&limit=100&startTime=1750714782997 HTTP/1.1" 200 3473
+2025-07-23 18:39:43,391 - INFO - Coletados 100 candles para SUPERUSDT 1m
+2025-07-23 18:39:43,508 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SUSDT&interval=1m&limit=100&startTime=1750714783508
+2025-07-23 18:39:43,895 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SUSDT&interval=1m&limit=100&startTime=1750714783508 HTTP/1.1" 200 4112
+2025-07-23 18:39:43,903 - INFO - Coletados 100 candles para SUSDT 1m
+2025-07-23 18:39:44,018 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SUSHIUSDT&interval=1m&limit=100&startTime=1750714784018
+2025-07-23 18:39:44,396 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SUSHIUSDT&interval=1m&limit=100&startTime=1750714784018 HTTP/1.1" 200 2976
+2025-07-23 18:39:44,425 - INFO - Coletados 100 candles para SUSHIUSDT 1m
+2025-07-23 18:39:44,528 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SXPUSDT&interval=1m&limit=100&startTime=1750714784528
+2025-07-23 18:39:44,907 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SXPUSDT&interval=1m&limit=100&startTime=1750714784528 HTTP/1.1" 200 2853
+2025-07-23 18:39:44,939 - INFO - Coletados 100 candles para SXPUSDT 1m
+2025-07-23 18:39:45,046 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SXTUSDT&interval=1m&limit=100&startTime=1750714785045
+2025-07-23 18:39:45,346 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SXTUSDT&interval=1m&limit=100&startTime=1750714785045 HTTP/1.1" 200 3586
+2025-07-23 18:39:45,360 - INFO - Coletados 100 candles para SXTUSDT 1m
+2025-07-23 18:39:45,464 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SYNUSDT&interval=1m&limit=100&startTime=1750714785464
+2025-07-23 18:39:45,840 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SYNUSDT&interval=1m&limit=100&startTime=1750714785464 HTTP/1.1" 200 2988
+2025-07-23 18:39:45,866 - INFO - Coletados 100 candles para SYNUSDT 1m
+2025-07-23 18:39:45,967 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SYRUPUSDT&interval=1m&limit=100&startTime=1750714785967
+2025-07-23 18:39:46,286 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SYRUPUSDT&interval=1m&limit=100&startTime=1750714785967 HTTP/1.1" 200 4116
+2025-07-23 18:39:46,312 - INFO - Coletados 100 candles para SYRUPUSDT 1m
+2025-07-23 18:39:46,415 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=SYSUSDT&interval=1m&limit=100&startTime=1750714786415
+2025-07-23 18:39:46,757 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=SYSUSDT&interval=1m&limit=100&startTime=1750714786415 HTTP/1.1" 200 1955
+2025-07-23 18:39:46,821 - INFO - Coletados 100 candles para SYSUSDT 1m
+2025-07-23 18:39:46,924 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TAOUSDT&interval=1m&limit=100&startTime=1750714786924
+2025-07-23 18:39:47,273 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TAOUSDT&interval=1m&limit=100&startTime=1750714786924 HTTP/1.1" 200 4280
+2025-07-23 18:39:47,295 - INFO - Coletados 100 candles para TAOUSDT 1m
+2025-07-23 18:39:47,395 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TFUELUSDT&interval=1m&limit=100&startTime=1750714787395
+2025-07-23 18:39:47,786 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TFUELUSDT&interval=1m&limit=100&startTime=1750714787395 HTTP/1.1" 200 3150
+2025-07-23 18:39:47,808 - INFO - Coletados 100 candles para TFUELUSDT 1m
+2025-07-23 18:39:47,910 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=THETAUSDT&interval=1m&limit=100&startTime=1750714787910
+2025-07-23 18:39:48,286 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=THETAUSDT&interval=1m&limit=100&startTime=1750714787910 HTTP/1.1" 200 3107
+2025-07-23 18:39:48,318 - INFO - Coletados 100 candles para THETAUSDT 1m
+2025-07-23 18:39:48,425 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=THEUSDT&interval=1m&limit=100&startTime=1750714788425
+2025-07-23 18:39:48,805 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=THEUSDT&interval=1m&limit=100&startTime=1750714788425 HTTP/1.1" 200 3098
+2025-07-23 18:39:48,831 - INFO - Coletados 100 candles para THEUSDT 1m
+2025-07-23 18:39:48,932 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TIAUSDT&interval=1m&limit=100&startTime=1750714788932
+2025-07-23 18:39:49,240 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TIAUSDT&interval=1m&limit=100&startTime=1750714788932 HTTP/1.1" 200 3957
+2025-07-23 18:39:49,268 - INFO - Coletados 100 candles para TIAUSDT 1m
+2025-07-23 18:39:49,371 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TKOUSDT&interval=1m&limit=100&startTime=1750714789371
+2025-07-23 18:39:49,685 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TKOUSDT&interval=1m&limit=100&startTime=1750714789371 HTTP/1.1" 200 3311
+2025-07-23 18:39:49,709 - INFO - Coletados 100 candles para TKOUSDT 1m
+2025-07-23 18:39:49,812 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TLMUSDT&interval=1m&limit=100&startTime=1750714789812
+2025-07-23 18:39:50,108 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TLMUSDT&interval=1m&limit=100&startTime=1750714789812 HTTP/1.1" 200 2593
+2025-07-23 18:39:50,140 - INFO - Coletados 100 candles para TLMUSDT 1m
+2025-07-23 18:39:50,245 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TNSRUSDT&interval=1m&limit=100&startTime=1750714790245
+2025-07-23 18:39:50,653 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TNSRUSDT&interval=1m&limit=100&startTime=1750714790245 HTTP/1.1" 200 2838
+2025-07-23 18:39:50,670 - INFO - Coletados 100 candles para TNSRUSDT 1m
+2025-07-23 18:39:50,774 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TONUSDT&interval=1m&limit=100&startTime=1750714790774
+2025-07-23 18:39:51,100 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TONUSDT&interval=1m&limit=100&startTime=1750714790774 HTTP/1.1" 200 3887
+2025-07-23 18:39:51,120 - INFO - Coletados 100 candles para TONUSDT 1m
+2025-07-23 18:39:51,230 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TRBUSDT&interval=1m&limit=100&startTime=1750714791228
+2025-07-23 18:39:51,563 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TRBUSDT&interval=1m&limit=100&startTime=1750714791228 HTTP/1.1" 200 3851
+2025-07-23 18:39:51,595 - INFO - Coletados 100 candles para TRBUSDT 1m
+2025-07-23 18:39:51,698 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TRUMPUSDT&interval=1m&limit=100&startTime=1750714791698
+2025-07-23 18:39:52,058 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TRUMPUSDT&interval=1m&limit=100&startTime=1750714791698 HTTP/1.1" 200 4015
+2025-07-23 18:39:52,091 - INFO - Coletados 100 candles para TRUMPUSDT 1m
+2025-07-23 18:39:52,193 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TRUUSDT&interval=1m&limit=100&startTime=1750714792193
+2025-07-23 18:39:52,495 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TRUUSDT&interval=1m&limit=100&startTime=1750714792193 HTTP/1.1" 200 2418
+2025-07-23 18:39:52,512 - INFO - Coletados 100 candles para TRUUSDT 1m
+2025-07-23 18:39:52,617 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TRXUSDT&interval=1m&limit=100&startTime=1750714792617
+2025-07-23 18:39:53,001 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TRXUSDT&interval=1m&limit=100&startTime=1750714792617 HTTP/1.1" 200 3725
+2025-07-23 18:39:53,046 - INFO - Coletados 100 candles para TRXUSDT 1m
+2025-07-23 18:39:53,149 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TSTUSDT&interval=1m&limit=100&startTime=1750714793149
+2025-07-23 18:39:53,521 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TSTUSDT&interval=1m&limit=100&startTime=1750714793149 HTTP/1.1" 200 3621
+2025-07-23 18:39:53,539 - INFO - Coletados 100 candles para TSTUSDT 1m
+2025-07-23 18:39:53,643 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TURBOUSDT&interval=1m&limit=100&startTime=1750714793643
+2025-07-23 18:39:53,957 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TURBOUSDT&interval=1m&limit=100&startTime=1750714793643 HTTP/1.1" 200 4031
+2025-07-23 18:39:53,987 - INFO - Coletados 100 candles para TURBOUSDT 1m
+2025-07-23 18:39:54,091 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TUSDT&interval=1m&limit=100&startTime=1750714794091
+2025-07-23 18:39:54,435 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TUSDT&interval=1m&limit=100&startTime=1750714794091 HTTP/1.1" 200 3562
+2025-07-23 18:39:54,467 - INFO - Coletados 100 candles para TUSDT 1m
+2025-07-23 18:39:54,569 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TUSDUSDT&interval=1m&limit=100&startTime=1750714794569
+2025-07-23 18:39:54,928 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TUSDUSDT&interval=1m&limit=100&startTime=1750714794569 HTTP/1.1" 200 1750
+2025-07-23 18:39:54,946 - INFO - Coletados 100 candles para TUSDUSDT 1m
+2025-07-23 18:39:55,053 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TUTUSDT&interval=1m&limit=100&startTime=1750714795053
+2025-07-23 18:39:55,456 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TUTUSDT&interval=1m&limit=100&startTime=1750714795053 HTTP/1.1" 200 3989
+2025-07-23 18:39:55,492 - INFO - Coletados 100 candles para TUTUSDT 1m
+2025-07-23 18:39:55,595 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=TWTUSDT&interval=1m&limit=100&startTime=1750714795595
+2025-07-23 18:39:55,965 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=TWTUSDT&interval=1m&limit=100&startTime=1750714795595 HTTP/1.1" 200 2518
+2025-07-23 18:39:55,997 - INFO - Coletados 100 candles para TWTUSDT 1m
+2025-07-23 18:39:56,109 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=UMAUSDT&interval=1m&limit=100&startTime=1750714796109
+2025-07-23 18:39:56,492 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=UMAUSDT&interval=1m&limit=100&startTime=1750714796109 HTTP/1.1" 200 2478
+2025-07-23 18:39:56,508 - INFO - Coletados 100 candles para UMAUSDT 1m
+2025-07-23 18:39:56,620 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=UNIUSDT&interval=1m&limit=100&startTime=1750714796617
+2025-07-23 18:39:56,999 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=UNIUSDT&interval=1m&limit=100&startTime=1750714796617 HTTP/1.1" 200 4260
+2025-07-23 18:39:57,019 - INFO - Coletados 100 candles para UNIUSDT 1m
+2025-07-23 18:39:57,128 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=USD1USDT&interval=1m&limit=100&startTime=1750714797128
+2025-07-23 18:39:57,514 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=USD1USDT&interval=1m&limit=100&startTime=1750714797128 HTTP/1.1" 200 1716
+2025-07-23 18:39:57,535 - INFO - Coletados 100 candles para USD1USDT 1m
+2025-07-23 18:39:57,639 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=USDCUSDT&interval=1m&limit=100&startTime=1750714797639
+2025-07-23 18:39:58,027 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=USDCUSDT&interval=1m&limit=100&startTime=1750714797639 HTTP/1.1" 200 3527
+2025-07-23 18:39:58,044 - INFO - Coletados 100 candles para USDCUSDT 1m
+2025-07-23 18:39:58,153 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=USDPUSDT&interval=1m&limit=100&startTime=1750714798153
+2025-07-23 18:39:58,538 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=USDPUSDT&interval=1m&limit=100&startTime=1750714798153 HTTP/1.1" 200 996
+2025-07-23 18:39:58,567 - INFO - Coletados 100 candles para USDPUSDT 1m
+2025-07-23 18:39:58,669 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=USTCUSDT&interval=1m&limit=100&startTime=1750714798669
+2025-07-23 18:39:59,045 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=USTCUSDT&interval=1m&limit=100&startTime=1750714798669 HTTP/1.1" 200 2898
+2025-07-23 18:39:59,078 - INFO - Coletados 100 candles para USTCUSDT 1m
+2025-07-23 18:39:59,182 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=USUALUSDT&interval=1m&limit=100&startTime=1750714799182
+2025-07-23 18:39:59,556 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=USUALUSDT&interval=1m&limit=100&startTime=1750714799182 HTTP/1.1" 200 3428
+2025-07-23 18:39:59,586 - INFO - Coletados 100 candles para USUALUSDT 1m
+2025-07-23 18:39:59,691 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=UTKUSDT&interval=1m&limit=100&startTime=1750714799691
+2025-07-23 18:40:00,033 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=UTKUSDT&interval=1m&limit=100&startTime=1750714799691 HTTP/1.1" 200 3408
+2025-07-23 18:40:00,065 - INFO - Coletados 100 candles para UTKUSDT 1m
+2025-07-23 18:40:00,166 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VANAUSDT&interval=1m&limit=100&startTime=1750714800166
+2025-07-23 18:40:00,574 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VANAUSDT&interval=1m&limit=100&startTime=1750714800166 HTTP/1.1" 200 3600
+2025-07-23 18:40:00,608 - INFO - Coletados 100 candles para VANAUSDT 1m
+2025-07-23 18:40:00,713 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VANRYUSDT&interval=1m&limit=100&startTime=1750714800713
+2025-07-23 18:40:01,099 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VANRYUSDT&interval=1m&limit=100&startTime=1750714800713 HTTP/1.1" 200 2628
+2025-07-23 18:40:01,118 - INFO - Coletados 100 candles para VANRYUSDT 1m
+2025-07-23 18:40:01,229 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VELODROMEUSDT&interval=1m&limit=100&startTime=1750714801229
+2025-07-23 18:40:01,712 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VELODROMEUSDT&interval=1m&limit=100&startTime=1750714801229 HTTP/1.1" 200 2202
+2025-07-23 18:40:01,740 - INFO - Coletados 100 candles para VELODROMEUSDT 1m
+2025-07-23 18:40:01,844 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VETUSDT&interval=1m&limit=100&startTime=1750714801844
+2025-07-23 18:40:02,222 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VETUSDT&interval=1m&limit=100&startTime=1750714801844 HTTP/1.1" 200 3834
+2025-07-23 18:40:02,250 - INFO - Coletados 100 candles para VETUSDT 1m
+2025-07-23 18:40:02,354 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VICUSDT&interval=1m&limit=100&startTime=1750714802354
+2025-07-23 18:40:02,738 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VICUSDT&interval=1m&limit=100&startTime=1750714802354 HTTP/1.1" 200 2666
+2025-07-23 18:40:02,761 - INFO - Coletados 100 candles para VICUSDT 1m
+2025-07-23 18:40:02,870 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VIRTUALUSDT&interval=1m&limit=100&startTime=1750714802870
+2025-07-23 18:40:03,352 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VIRTUALUSDT&interval=1m&limit=100&startTime=1750714802870 HTTP/1.1" 200 4394
+2025-07-23 18:40:03,375 - INFO - Coletados 100 candles para VIRTUALUSDT 1m
+2025-07-23 18:40:03,482 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VOXELUSDT&interval=1m&limit=100&startTime=1750714803480
+2025-07-23 18:40:03,863 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VOXELUSDT&interval=1m&limit=100&startTime=1750714803480 HTTP/1.1" 200 2667
+2025-07-23 18:40:03,893 - INFO - Coletados 100 candles para VOXELUSDT 1m
+2025-07-23 18:40:03,995 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=VTHOUSDT&interval=1m&limit=100&startTime=1750714803995
+2025-07-23 18:40:04,376 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=VTHOUSDT&interval=1m&limit=100&startTime=1750714803995 HTTP/1.1" 200 3313
+2025-07-23 18:40:04,394 - INFO - Coletados 100 candles para VTHOUSDT 1m
+2025-07-23 18:40:04,503 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WANUSDT&interval=1m&limit=100&startTime=1750714804503
+2025-07-23 18:40:04,888 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WANUSDT&interval=1m&limit=100&startTime=1750714804503 HTTP/1.1" 200 2803
+2025-07-23 18:40:04,924 - INFO - Coletados 100 candles para WANUSDT 1m
+2025-07-23 18:40:05,026 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WAXPUSDT&interval=1m&limit=100&startTime=1750714805026
+2025-07-23 18:40:05,396 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WAXPUSDT&interval=1m&limit=100&startTime=1750714805026 HTTP/1.1" 200 2890
+2025-07-23 18:40:05,430 - INFO - Coletados 100 candles para WAXPUSDT 1m
+2025-07-23 18:40:05,532 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WBETHUSDT&interval=1m&limit=100&startTime=1750714805532
+2025-07-23 18:40:06,015 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WBETHUSDT&interval=1m&limit=100&startTime=1750714805532 HTTP/1.1" 200 3235
+2025-07-23 18:40:06,093 - INFO - Coletados 100 candles para WBETHUSDT 1m
+2025-07-23 18:40:06,195 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WBTCUSDT&interval=1m&limit=100&startTime=1750714806195
+2025-07-23 18:40:06,621 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WBTCUSDT&interval=1m&limit=100&startTime=1750714806195 HTTP/1.1" 200 4666
+2025-07-23 18:40:06,663 - INFO - Coletados 100 candles para WBTCUSDT 1m
+2025-07-23 18:40:06,765 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WCTUSDT&interval=1m&limit=100&startTime=1750714806765
+2025-07-23 18:40:07,135 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WCTUSDT&interval=1m&limit=100&startTime=1750714806765 HTTP/1.1" 200 3624
+2025-07-23 18:40:07,164 - INFO - Coletados 100 candles para WCTUSDT 1m
+2025-07-23 18:40:07,269 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WIFUSDT&interval=1m&limit=100&startTime=1750714807269
+2025-07-23 18:40:07,652 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WIFUSDT&interval=1m&limit=100&startTime=1750714807269 HTTP/1.1" 200 4175
+2025-07-23 18:40:07,678 - INFO - Coletados 100 candles para WIFUSDT 1m
+2025-07-23 18:40:07,786 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WINUSDT&interval=1m&limit=100&startTime=1750714807786
+2025-07-23 18:40:08,152 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WINUSDT&interval=1m&limit=100&startTime=1750714807786 HTTP/1.1" 200 3559
+2025-07-23 18:40:08,195 - INFO - Coletados 100 candles para WINUSDT 1m
+2025-07-23 18:40:08,297 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WLDUSDT&interval=1m&limit=100&startTime=1750714808297
+2025-07-23 18:40:08,983 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WLDUSDT&interval=1m&limit=100&startTime=1750714808297 HTTP/1.1" 200 3732
+2025-07-23 18:40:09,011 - INFO - Coletados 100 candles para WLDUSDT 1m
+2025-07-23 18:40:09,117 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WOOUSDT&interval=1m&limit=100&startTime=1750714809117
+2025-07-23 18:40:09,495 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WOOUSDT&interval=1m&limit=100&startTime=1750714809117 HTTP/1.1" 200 2454
+2025-07-23 18:40:09,521 - INFO - Coletados 100 candles para WOOUSDT 1m
+2025-07-23 18:40:09,624 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=WUSDT&interval=1m&limit=100&startTime=1750714809624
+2025-07-23 18:40:09,988 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=WUSDT&interval=1m&limit=100&startTime=1750714809624 HTTP/1.1" 200 3282
+2025-07-23 18:40:10,005 - INFO - Coletados 100 candles para WUSDT 1m
+2025-07-23 18:40:10,115 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XAIUSDT&interval=1m&limit=100&startTime=1750714810115
+2025-07-23 18:40:10,519 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XAIUSDT&interval=1m&limit=100&startTime=1750714810115 HTTP/1.1" 200 3281
+2025-07-23 18:40:10,548 - INFO - Coletados 100 candles para XAIUSDT 1m
+2025-07-23 18:40:10,652 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XECUSDT&interval=1m&limit=100&startTime=1750714810650
+2025-07-23 18:40:11,030 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XECUSDT&interval=1m&limit=100&startTime=1750714810650 HTTP/1.1" 200 2717
+2025-07-23 18:40:11,057 - INFO - Coletados 100 candles para XECUSDT 1m
+2025-07-23 18:40:11,160 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XLMUSDT&interval=1m&limit=100&startTime=1750714811160
+2025-07-23 18:40:11,476 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XLMUSDT&interval=1m&limit=100&startTime=1750714811160 HTTP/1.1" 200 3676
+2025-07-23 18:40:11,506 - INFO - Coletados 100 candles para XLMUSDT 1m
+2025-07-23 18:40:11,609 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XNOUSDT&interval=1m&limit=100&startTime=1750714811609
+2025-07-23 18:40:11,953 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XNOUSDT&interval=1m&limit=100&startTime=1750714811609 HTTP/1.1" 200 3021
+2025-07-23 18:40:11,964 - INFO - Coletados 100 candles para XNOUSDT 1m
+2025-07-23 18:40:12,079 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XRPUSDT&interval=1m&limit=100&startTime=1750714812079
+2025-07-23 18:40:12,393 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XRPUSDT&interval=1m&limit=100&startTime=1750714812079 HTTP/1.1" 200 4516
+2025-07-23 18:40:12,411 - INFO - Coletados 100 candles para XRPUSDT 1m
+2025-07-23 18:40:12,530 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XTZUSDT&interval=1m&limit=100&startTime=1750714812530
+2025-07-23 18:40:12,875 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XTZUSDT&interval=1m&limit=100&startTime=1750714812530 HTTP/1.1" 200 3345
+2025-07-23 18:40:12,903 - INFO - Coletados 100 candles para XTZUSDT 1m
+2025-07-23 18:40:13,006 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XUSDUSDT&interval=1m&limit=100&startTime=1750714813006
+2025-07-23 18:40:13,319 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XUSDUSDT&interval=1m&limit=100&startTime=1750714813006 HTTP/1.1" 200 1582
+2025-07-23 18:40:13,354 - INFO - Coletados 100 candles para XUSDUSDT 1m
+2025-07-23 18:40:13,456 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XVGUSDT&interval=1m&limit=100&startTime=1750714813456
+2025-07-23 18:40:13,899 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XVGUSDT&interval=1m&limit=100&startTime=1750714813456 HTTP/1.1" 200 3326
+2025-07-23 18:40:13,924 - INFO - Coletados 100 candles para XVGUSDT 1m
+2025-07-23 18:40:14,027 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=XVSUSDT&interval=1m&limit=100&startTime=1750714814027
+2025-07-23 18:40:14,405 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=XVSUSDT&interval=1m&limit=100&startTime=1750714814027 HTTP/1.1" 200 1972
+2025-07-23 18:40:14,434 - INFO - Coletados 100 candles para XVSUSDT 1m
+2025-07-23 18:40:14,537 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=YFIUSDT&interval=1m&limit=100&startTime=1750714814537
+2025-07-23 18:40:14,979 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=YFIUSDT&interval=1m&limit=100&startTime=1750714814537 HTTP/1.1" 200 3003
+2025-07-23 18:40:15,026 - INFO - Coletados 100 candles para YFIUSDT 1m
+2025-07-23 18:40:15,132 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=YGGUSDT&interval=1m&limit=100&startTime=1750714815132
+2025-07-23 18:40:15,536 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=YGGUSDT&interval=1m&limit=100&startTime=1750714815132 HTTP/1.1" 200 3153
+2025-07-23 18:40:15,561 - INFO - Coletados 100 candles para YGGUSDT 1m
+2025-07-23 18:40:15,668 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZECUSDT&interval=1m&limit=100&startTime=1750714815668
+2025-07-23 18:40:16,003 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZECUSDT&interval=1m&limit=100&startTime=1750714815668 HTTP/1.1" 200 3233
+2025-07-23 18:40:16,048 - INFO - Coletados 100 candles para ZECUSDT 1m
+2025-07-23 18:40:16,160 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZENUSDT&interval=1m&limit=100&startTime=1750714816160
+2025-07-23 18:40:16,560 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZENUSDT&interval=1m&limit=100&startTime=1750714816160 HTTP/1.1" 200 3031
+2025-07-23 18:40:16,577 - INFO - Coletados 100 candles para ZENUSDT 1m
+2025-07-23 18:40:16,690 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZILUSDT&interval=1m&limit=100&startTime=1750714816690
+2025-07-23 18:40:17,070 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZILUSDT&interval=1m&limit=100&startTime=1750714816690 HTTP/1.1" 200 3087
+2025-07-23 18:40:17,093 - INFO - Coletados 100 candles para ZILUSDT 1m
+2025-07-23 18:40:17,205 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZKUSDT&interval=1m&limit=100&startTime=1750714817205
+2025-07-23 18:40:17,536 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZKUSDT&interval=1m&limit=100&startTime=1750714817205 HTTP/1.1" 200 3332
+2025-07-23 18:40:17,566 - INFO - Coletados 100 candles para ZKUSDT 1m
+2025-07-23 18:40:17,667 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZROUSDT&interval=1m&limit=100&startTime=1750714817667
+2025-07-23 18:40:18,096 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZROUSDT&interval=1m&limit=100&startTime=1750714817667 HTTP/1.1" 200 3819
+2025-07-23 18:40:18,108 - INFO - Coletados 100 candles para ZROUSDT 1m
+2025-07-23 18:40:18,226 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ZRXUSDT&interval=1m&limit=100&startTime=1750714818226
+2025-07-23 18:40:18,549 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ZRXUSDT&interval=1m&limit=100&startTime=1750714818226 HTTP/1.1" 200 2555
+2025-07-23 18:40:18,570 - INFO - Coletados 100 candles para ZRXUSDT 1m
+2025-07-23 18:40:18,673 - INFO - Coleta única finalizada: 40500 candles, 0 erros
+2025-07-23 18:45:10,827 - INFO - Recebido sinal 2, parando...
+2025-07-23 18:45:10,827 - INFO - Parando coleta contínua...
+2025-07-23 18:45:10,827 - INFO - Coleta contínua parada
+2025-07-23 18:45:10,827 - INFO - Conexão com banco de dados fechada
+2025-07-23 18:45:10,827 - INFO - BinanceImporter finalizado
+2025-07-23 18:45:15,126 - INFO - Conexão com banco de dados estabelecida
+2025-07-23 18:45:15,126 - INFO - BinanceImporter - Coletor de Candles iniciado
+2025-07-23 18:45:21,630 - INFO - Iniciando coleta única para intervalo 1m
+2025-07-23 18:45:21,640 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CATUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:21,640 - DEBUG - Starting new HTTPS connection (1): api.binance.com:443
+2025-07-23 18:45:22,489 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CATUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2930
+2025-07-23 18:45:22,533 - INFO - Coletados 100 candles para 1000CATUSDT 1m
+2025-07-23 18:45:22,645 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CHEEMSUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:22,948 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CHEEMSUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2939
+2025-07-23 18:45:22,979 - INFO - Coletados 100 candles para 1000CHEEMSUSDT 1m
+2025-07-23 18:45:23,080 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000SATSUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:23,402 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000SATSUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3258
+2025-07-23 18:45:23,430 - INFO - Coletados 100 candles para 1000SATSUSDT 1m
+2025-07-23 18:45:23,541 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1INCHUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:23,890 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1INCHUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2922
+2025-07-23 18:45:23,905 - INFO - Coletados 100 candles para 1INCHUSDT 1m
+2025-07-23 18:45:24,014 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1MBABYDOGEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:24,331 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1MBABYDOGEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3933
+2025-07-23 18:45:24,351 - INFO - Coletados 100 candles para 1MBABYDOGEUSDT 1m
+2025-07-23 18:45:24,452 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AAVEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:24,911 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AAVEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 4206
+2025-07-23 18:45:24,928 - INFO - Coletados 100 candles para AAVEUSDT 1m
+2025-07-23 18:45:25,037 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACAUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:25,531 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACAUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2679
+2025-07-23 18:45:25,542 - INFO - Coletados 100 candles para ACAUSDT 1m
+2025-07-23 18:45:25,654 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:26,010 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2207
+2025-07-23 18:45:26,025 - INFO - Coletados 100 candles para ACEUSDT 1m
+2025-07-23 18:45:26,127 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACHUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:26,666 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACHUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3099
+2025-07-23 18:45:26,677 - INFO - Coletados 100 candles para ACHUSDT 1m
+2025-07-23 18:45:26,779 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACMUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:27,090 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACMUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2097
+2025-07-23 18:45:27,103 - INFO - Coletados 100 candles para ACMUSDT 1m
+2025-07-23 18:45:27,204 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACTUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:27,570 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACTUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2897
+2025-07-23 18:45:27,590 - INFO - Coletados 100 candles para ACTUSDT 1m
+2025-07-23 18:45:27,692 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACXUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:28,000 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACXUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2763
+2025-07-23 18:45:28,015 - INFO - Coletados 100 candles para ACXUSDT 1m
+2025-07-23 18:45:28,117 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:28,451 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADAUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 4023
+2025-07-23 18:45:28,463 - INFO - Coletados 100 candles para ADAUSDT 1m
+2025-07-23 18:45:28,565 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADXUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:28,892 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADXUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2590
+2025-07-23 18:45:28,902 - INFO - Coletados 100 candles para ADXUSDT 1m
+2025-07-23 18:45:29,004 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEURUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:29,325 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEURUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2069
+2025-07-23 18:45:29,357 - INFO - Coletados 100 candles para AEURUSDT 1m
+2025-07-23 18:45:29,461 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEVOUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:29,771 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEVOUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3227
+2025-07-23 18:45:29,779 - INFO - Coletados 100 candles para AEVOUSDT 1m
+2025-07-23 18:45:29,890 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AGLDUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:30,211 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AGLDUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2337
+2025-07-23 18:45:30,237 - INFO - Coletados 100 candles para AGLDUSDT 1m
+2025-07-23 18:45:30,339 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:30,658 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2669
+2025-07-23 18:45:30,669 - INFO - Coletados 100 candles para AIUSDT 1m
+2025-07-23 18:45:30,770 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIXBTUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:31,093 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIXBTUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3864
+2025-07-23 18:45:31,110 - INFO - Coletados 100 candles para AIXBTUSDT 1m
+2025-07-23 18:45:31,213 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALCXUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:31,626 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALCXUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3111
+2025-07-23 18:45:31,649 - INFO - Coletados 100 candles para ALCXUSDT 1m
+2025-07-23 18:45:31,751 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALGOUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:32,043 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALGOUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3280
+2025-07-23 18:45:32,075 - INFO - Coletados 100 candles para ALGOUSDT 1m
+2025-07-23 18:45:32,178 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALICEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:32,569 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALICEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3033
+2025-07-23 18:45:32,586 - INFO - Coletados 100 candles para ALICEUSDT 1m
+2025-07-23 18:45:32,688 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALPINEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:33,011 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALPINEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 1960
+2025-07-23 18:45:33,025 - INFO - Coletados 100 candles para ALPINEUSDT 1m
+2025-07-23 18:45:33,128 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALTUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:33,556 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALTUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3591
+2025-07-23 18:45:33,570 - INFO - Coletados 100 candles para ALTUSDT 1m
+2025-07-23 18:45:33,671 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AMPUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:33,993 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AMPUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2917
+2025-07-23 18:45:34,009 - INFO - Coletados 100 candles para AMPUSDT 1m
+2025-07-23 18:45:34,111 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANIMEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:34,448 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANIMEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3653
+2025-07-23 18:45:34,471 - INFO - Coletados 100 candles para ANIMEUSDT 1m
+2025-07-23 18:45:34,573 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANKRUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:34,878 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANKRUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3077
+2025-07-23 18:45:34,915 - INFO - Coletados 100 candles para ANKRUSDT 1m
+2025-07-23 18:45:35,017 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APEUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:35,474 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APEUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3881
+2025-07-23 18:45:35,493 - INFO - Coletados 100 candles para APEUSDT 1m
+2025-07-23 18:45:35,606 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=API3USDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:35,977 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=API3USDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 2253
+2025-07-23 18:45:35,993 - INFO - Coletados 100 candles para API3USDT 1m
+2025-07-23 18:45:36,097 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APTUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:36,457 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APTUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3913
+2025-07-23 18:45:36,459 - INFO - Coletados 100 candles para APTUSDT 1m
+2025-07-23 18:45:36,571 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARBUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:36,890 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARBUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3862
+2025-07-23 18:45:36,905 - INFO - Coletados 100 candles para ARBUSDT 1m
+2025-07-23 18:45:37,008 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARDRUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:37,330 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARDRUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3064
+2025-07-23 18:45:37,341 - INFO - Coletados 100 candles para ARDRUSDT 1m
+2025-07-23 18:45:37,443 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKMUSDT&interval=1m&limit=100&startTime=1750720620000
+2025-07-23 18:45:37,760 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKMUSDT&interval=1m&limit=100&startTime=1750720620000 HTTP/1.1" 200 3215
+2025-07-23 18:45:37,773 - INFO - Coletados 100 candles para ARKMUSDT 1m
+2025-07-23 18:45:37,875 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:38,210 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2041
+2025-07-23 18:45:38,221 - INFO - Coletados 100 candles para ARKUSDT 1m
+2025-07-23 18:45:38,323 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARPAUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:38,776 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARPAUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2399
+2025-07-23 18:45:38,788 - INFO - Coletados 100 candles para ARPAUSDT 1m
+2025-07-23 18:45:38,891 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:39,251 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3215
+2025-07-23 18:45:39,259 - INFO - Coletados 100 candles para ARUSDT 1m
+2025-07-23 18:45:39,364 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASRUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:39,689 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASRUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3167
+2025-07-23 18:45:39,705 - INFO - Coletados 100 candles para ASRUSDT 1m
+2025-07-23 18:45:39,807 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASTRUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:40,249 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASTRUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2909
+2025-07-23 18:45:40,259 - INFO - Coletados 100 candles para ASTRUSDT 1m
+2025-07-23 18:45:40,368 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATAUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:40,698 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATAUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 1553
+2025-07-23 18:45:40,710 - INFO - Coletados 100 candles para ATAUSDT 1m
+2025-07-23 18:45:40,813 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATMUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:41,146 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATMUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2426
+2025-07-23 18:45:41,167 - INFO - Coletados 100 candles para ATMUSDT 1m
+2025-07-23 18:45:41,270 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATOMUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:41,602 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATOMUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3476
+2025-07-23 18:45:41,655 - INFO - Coletados 100 candles para ATOMUSDT 1m
+2025-07-23 18:45:41,756 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUCTIONUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:42,078 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUCTIONUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2339
+2025-07-23 18:45:42,109 - INFO - Coletados 100 candles para AUCTIONUSDT 1m
+2025-07-23 18:45:42,211 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUDIOUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:42,612 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUDIOUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2621
+2025-07-23 18:45:42,634 - INFO - Coletados 100 candles para AUDIOUSDT 1m
+2025-07-23 18:45:42,737 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:43,091 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3477
+2025-07-23 18:45:43,115 - INFO - Coletados 100 candles para AUSDT 1m
+2025-07-23 18:45:43,223 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:43,537 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2379
+2025-07-23 18:45:43,554 - INFO - Coletados 100 candles para AVAUSDT 1m
+2025-07-23 18:45:43,657 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAXUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:44,235 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAXUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3692
+2025-07-23 18:45:44,253 - INFO - Coletados 100 candles para AVAXUSDT 1m
+2025-07-23 18:45:44,356 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AWEUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:44,699 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AWEUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2231
+2025-07-23 18:45:44,722 - INFO - Coletados 100 candles para AWEUSDT 1m
+2025-07-23 18:45:44,823 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXLUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:45,130 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXLUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3679
+2025-07-23 18:45:45,142 - INFO - Coletados 100 candles para AXLUSDT 1m
+2025-07-23 18:45:45,250 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXSUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:45,601 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXSUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3098
+2025-07-23 18:45:45,621 - INFO - Coletados 100 candles para AXSUSDT 1m
+2025-07-23 18:45:45,723 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BABYUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:46,010 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BABYUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3473
+2025-07-23 18:45:46,026 - INFO - Coletados 100 candles para BABYUSDT 1m
+2025-07-23 18:45:46,140 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BAKEUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:46,490 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BAKEUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2088
+2025-07-23 18:45:46,506 - INFO - Coletados 100 candles para BAKEUSDT 1m
+2025-07-23 18:45:46,609 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAS31USDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:46,930 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAS31USDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 4634
+2025-07-23 18:45:46,948 - INFO - Coletados 100 candles para BANANAS31USDT 1m
+2025-07-23 18:45:47,050 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:47,373 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3187
+2025-07-23 18:45:47,378 - INFO - Coletados 100 candles para BANANAUSDT 1m
+2025-07-23 18:45:47,489 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANDUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:47,892 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANDUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2060
+2025-07-23 18:45:47,905 - INFO - Coletados 100 candles para BANDUSDT 1m
+2025-07-23 18:45:48,015 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BARUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:48,356 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BARUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3012
+2025-07-23 18:45:48,371 - INFO - Coletados 100 candles para BARUSDT 1m
+2025-07-23 18:45:48,486 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BATUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:49,025 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BATUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2578
+2025-07-23 18:45:49,040 - INFO - Coletados 100 candles para BATUSDT 1m
+2025-07-23 18:45:49,147 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BBUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:49,473 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BBUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2523
+2025-07-23 18:45:49,485 - INFO - Coletados 100 candles para BBUSDT 1m
+2025-07-23 18:45:49,591 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BCHUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:49,932 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BCHUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 3729
+2025-07-23 18:45:49,948 - INFO - Coletados 100 candles para BCHUSDT 1m
+2025-07-23 18:45:50,053 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BEAMXUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:50,379 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BEAMXUSDT&interval=1m&limit=100&startTime=1750720680000 HTTP/1.1" 200 2871
+2025-07-23 18:45:50,395 - INFO - Coletados 100 candles para BEAMXUSDT 1m
+2025-07-23 18:45:50,502 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BELUSDT&interval=1m&limit=100&startTime=1750720680000
+2025-07-23 18:45:50,850 - INFO - Recebido sinal 2, parando...
+2025-07-23 18:45:50,850 - INFO - Parando coleta contínua...
+2025-07-23 18:45:50,850 - INFO - Coleta contínua parada
+2025-07-23 18:45:50,850 - INFO - Conexão com banco de dados fechada
+2025-07-23 18:45:50,850 - INFO - BinanceImporter finalizado
+2025-07-23 18:45:56,453 - INFO - Conexão com banco de dados estabelecida
+2025-07-23 18:45:56,453 - INFO - BinanceImporter - Coletor de Candles iniciado
+2025-07-23 18:46:21,349 - INFO - Iniciando coleta única para intervalo 1d
+2025-07-23 18:46:21,362 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CATUSDT&interval=1d&limit=100&startTime=1750715181362
+2025-07-23 18:46:21,373 - DEBUG - Starting new HTTPS connection (1): api.binance.com:443
+2025-07-23 18:46:22,223 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CATUSDT&interval=1d&limit=100&startTime=1750715181362 HTTP/1.1" 200 1629
+2025-07-23 18:46:22,238 - INFO - Coletados 29 candles para 1000CATUSDT 1d
+2025-07-23 18:46:22,350 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CHEEMSUSDT&interval=1d&limit=100&startTime=1750715182350
+2025-07-23 18:46:22,694 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CHEEMSUSDT&interval=1d&limit=100&startTime=1750715182350 HTTP/1.1" 200 1577
+2025-07-23 18:46:22,703 - INFO - Coletados 29 candles para 1000CHEEMSUSDT 1d
+2025-07-23 18:46:22,818 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000SATSUSDT&interval=1d&limit=100&startTime=1750715182818
+2025-07-23 18:46:23,118 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000SATSUSDT&interval=1d&limit=100&startTime=1750715182818 HTTP/1.1" 200 1740
+2025-07-23 18:46:23,133 - INFO - Coletados 29 candles para 1000SATSUSDT 1d
+2025-07-23 18:46:23,245 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1INCHUSDT&interval=1d&limit=100&startTime=1750715183245
+2025-07-23 18:46:23,569 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1INCHUSDT&interval=1d&limit=100&startTime=1750715183245 HTTP/1.1" 200 1600
+2025-07-23 18:46:23,581 - INFO - Coletados 29 candles para 1INCHUSDT 1d
+2025-07-23 18:46:23,685 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1MBABYDOGEUSDT&interval=1d&limit=100&startTime=1750715183685
+2025-07-23 18:46:24,191 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1MBABYDOGEUSDT&interval=1d&limit=100&startTime=1750715183685 HTTP/1.1" 200 1693
+2025-07-23 18:46:24,203 - INFO - Coletados 29 candles para 1MBABYDOGEUSDT 1d
+2025-07-23 18:46:24,310 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AAVEUSDT&interval=1d&limit=100&startTime=1750715184310
+2025-07-23 18:46:24,665 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AAVEUSDT&interval=1d&limit=100&startTime=1750715184310 HTTP/1.1" 200 1719
+2025-07-23 18:46:24,684 - INFO - Coletados 29 candles para AAVEUSDT 1d
+2025-07-23 18:46:24,786 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACAUSDT&interval=1d&limit=100&startTime=1750715184786
+2025-07-23 18:46:25,178 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACAUSDT&interval=1d&limit=100&startTime=1750715184786 HTTP/1.1" 200 1570
+2025-07-23 18:46:25,191 - INFO - Coletados 29 candles para ACAUSDT 1d
+2025-07-23 18:46:25,304 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACEUSDT&interval=1d&limit=100&startTime=1750715185304
+2025-07-23 18:46:25,638 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACEUSDT&interval=1d&limit=100&startTime=1750715185304 HTTP/1.1" 200 1484
+2025-07-23 18:46:25,654 - INFO - Coletados 29 candles para ACEUSDT 1d
+2025-07-23 18:46:25,764 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACHUSDT&interval=1d&limit=100&startTime=1750715185764
+2025-07-23 18:46:26,084 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACHUSDT&interval=1d&limit=100&startTime=1750715185764 HTTP/1.1" 200 1564
+2025-07-23 18:46:26,099 - INFO - Coletados 29 candles para ACHUSDT 1d
+2025-07-23 18:46:26,208 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACMUSDT&interval=1d&limit=100&startTime=1750715186208
+2025-07-23 18:46:26,610 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACMUSDT&interval=1d&limit=100&startTime=1750715186208 HTTP/1.1" 200 1438
+2025-07-23 18:46:26,626 - INFO - Coletados 29 candles para ACMUSDT 1d
+2025-07-23 18:46:26,728 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACTUSDT&interval=1d&limit=100&startTime=1750715186728
+2025-07-23 18:46:27,089 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACTUSDT&interval=1d&limit=100&startTime=1750715186728 HTTP/1.1" 200 1567
+2025-07-23 18:46:27,098 - INFO - Coletados 29 candles para ACTUSDT 1d
+2025-07-23 18:46:27,204 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACXUSDT&interval=1d&limit=100&startTime=1750715187204
+2025-07-23 18:46:27,570 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACXUSDT&interval=1d&limit=100&startTime=1750715187204 HTTP/1.1" 200 1563
+2025-07-23 18:46:27,575 - INFO - Coletados 29 candles para ACXUSDT 1d
+2025-07-23 18:46:27,684 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=1d&limit=100&startTime=1750715187684
+2025-07-23 18:46:28,001 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADAUSDT&interval=1d&limit=100&startTime=1750715187684 HTTP/1.1" 200 1699
+2025-07-23 18:46:28,017 - INFO - Coletados 29 candles para ADAUSDT 1d
+2025-07-23 18:46:28,125 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADXUSDT&interval=1d&limit=100&startTime=1750715188125
+2025-07-23 18:46:28,529 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADXUSDT&interval=1d&limit=100&startTime=1750715188125 HTTP/1.1" 200 1439
+2025-07-23 18:46:28,543 - INFO - Coletados 29 candles para ADXUSDT 1d
+2025-07-23 18:46:28,644 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEURUSDT&interval=1d&limit=100&startTime=1750715188644
+2025-07-23 18:46:28,961 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEURUSDT&interval=1d&limit=100&startTime=1750715188644 HTTP/1.1" 200 1431
+2025-07-23 18:46:28,976 - INFO - Coletados 29 candles para AEURUSDT 1d
+2025-07-23 18:46:29,089 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEVOUSDT&interval=1d&limit=100&startTime=1750715189089
+2025-07-23 18:46:29,405 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEVOUSDT&interval=1d&limit=100&startTime=1750715189089 HTTP/1.1" 200 1620
+2025-07-23 18:46:29,421 - INFO - Coletados 29 candles para AEVOUSDT 1d
+2025-07-23 18:46:29,528 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AGLDUSDT&interval=1d&limit=100&startTime=1750715189528
+2025-07-23 18:46:29,840 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AGLDUSDT&interval=1d&limit=100&startTime=1750715189528 HTTP/1.1" 200 1460
+2025-07-23 18:46:29,883 - INFO - Coletados 29 candles para AGLDUSDT 1d
+2025-07-23 18:46:29,984 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIUSDT&interval=1d&limit=100&startTime=1750715189984
+2025-07-23 18:46:30,365 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIUSDT&interval=1d&limit=100&startTime=1750715189984 HTTP/1.1" 200 1553
+2025-07-23 18:46:30,377 - INFO - Coletados 29 candles para AIUSDT 1d
+2025-07-23 18:46:30,486 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIXBTUSDT&interval=1d&limit=100&startTime=1750715190486
+2025-07-23 18:46:30,816 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIXBTUSDT&interval=1d&limit=100&startTime=1750715190486 HTTP/1.1" 200 1617
+2025-07-23 18:46:30,825 - INFO - Coletados 29 candles para AIXBTUSDT 1d
+2025-07-23 18:46:30,932 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALCXUSDT&interval=1d&limit=100&startTime=1750715190932
+2025-07-23 18:46:31,241 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALCXUSDT&interval=1d&limit=100&startTime=1750715190932 HTTP/1.1" 200 1543
+2025-07-23 18:46:31,257 - INFO - Coletados 29 candles para ALCXUSDT 1d
+2025-07-23 18:46:31,369 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALGOUSDT&interval=1d&limit=100&startTime=1750715191369
+2025-07-23 18:46:31,855 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALGOUSDT&interval=1d&limit=100&startTime=1750715191369 HTTP/1.1" 200 1555
+2025-07-23 18:46:31,881 - INFO - Coletados 29 candles para ALGOUSDT 1d
+2025-07-23 18:46:31,983 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALICEUSDT&interval=1d&limit=100&startTime=1750715191983
+2025-07-23 18:46:32,424 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALICEUSDT&interval=1d&limit=100&startTime=1750715191983 HTTP/1.1" 200 1622
+2025-07-23 18:46:32,440 - INFO - Coletados 29 candles para ALICEUSDT 1d
+2025-07-23 18:46:32,551 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALPINEUSDT&interval=1d&limit=100&startTime=1750715192551
+2025-07-23 18:46:32,890 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALPINEUSDT&interval=1d&limit=100&startTime=1750715192551 HTTP/1.1" 200 1551
+2025-07-23 18:46:32,913 - INFO - Coletados 29 candles para ALPINEUSDT 1d
+2025-07-23 18:46:33,019 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALTUSDT&interval=1d&limit=100&startTime=1750715193019
+2025-07-23 18:46:33,338 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALTUSDT&interval=1d&limit=100&startTime=1750715193019 HTTP/1.1" 200 1584
+2025-07-23 18:46:33,367 - INFO - Coletados 29 candles para ALTUSDT 1d
+2025-07-23 18:46:33,468 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AMPUSDT&interval=1d&limit=100&startTime=1750715193468
+2025-07-23 18:46:33,815 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AMPUSDT&interval=1d&limit=100&startTime=1750715193468 HTTP/1.1" 200 1602
+2025-07-23 18:46:33,846 - INFO - Coletados 29 candles para AMPUSDT 1d
+2025-07-23 18:46:33,948 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANIMEUSDT&interval=1d&limit=100&startTime=1750715193948
+2025-07-23 18:46:34,305 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANIMEUSDT&interval=1d&limit=100&startTime=1750715193948 HTTP/1.1" 200 1635
+2025-07-23 18:46:34,310 - INFO - Coletados 29 candles para ANIMEUSDT 1d
+2025-07-23 18:46:34,424 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANKRUSDT&interval=1d&limit=100&startTime=1750715194424
+2025-07-23 18:46:34,774 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANKRUSDT&interval=1d&limit=100&startTime=1750715194424 HTTP/1.1" 200 1585
+2025-07-23 18:46:34,788 - INFO - Coletados 29 candles para ANKRUSDT 1d
+2025-07-23 18:46:34,890 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APEUSDT&interval=1d&limit=100&startTime=1750715194890
+2025-07-23 18:46:35,331 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APEUSDT&interval=1d&limit=100&startTime=1750715194890 HTTP/1.1" 200 1653
+2025-07-23 18:46:35,347 - INFO - Coletados 29 candles para APEUSDT 1d
+2025-07-23 18:46:35,450 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=API3USDT&interval=1d&limit=100&startTime=1750715195450
+2025-07-23 18:46:35,875 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=API3USDT&interval=1d&limit=100&startTime=1750715195450 HTTP/1.1" 200 1561
+2025-07-23 18:46:35,896 - INFO - Coletados 29 candles para API3USDT 1d
+2025-07-23 18:46:36,004 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APTUSDT&interval=1d&limit=100&startTime=1750715196004
+2025-07-23 18:46:36,337 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APTUSDT&interval=1d&limit=100&startTime=1750715196004 HTTP/1.1" 200 1645
+2025-07-23 18:46:36,369 - INFO - Coletados 29 candles para APTUSDT 1d
+2025-07-23 18:46:36,471 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARBUSDT&interval=1d&limit=100&startTime=1750715196471
+2025-07-23 18:46:36,849 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARBUSDT&interval=1d&limit=100&startTime=1750715196471 HTTP/1.1" 200 1672
+2025-07-23 18:46:36,866 - INFO - Coletados 29 candles para ARBUSDT 1d
+2025-07-23 18:46:36,967 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARDRUSDT&interval=1d&limit=100&startTime=1750715196967
+2025-07-23 18:46:37,280 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARDRUSDT&interval=1d&limit=100&startTime=1750715196967 HTTP/1.1" 200 1533
+2025-07-23 18:46:37,296 - INFO - Coletados 29 candles para ARDRUSDT 1d
+2025-07-23 18:46:37,399 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKMUSDT&interval=1d&limit=100&startTime=1750715197399
+2025-07-23 18:46:37,728 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKMUSDT&interval=1d&limit=100&startTime=1750715197399 HTTP/1.1" 200 1524
+2025-07-23 18:46:37,743 - INFO - Coletados 29 candles para ARKMUSDT 1d
+2025-07-23 18:46:37,851 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKUSDT&interval=1d&limit=100&startTime=1750715197851
+2025-07-23 18:46:38,162 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKUSDT&interval=1d&limit=100&startTime=1750715197851 HTTP/1.1" 200 1494
+2025-07-23 18:46:38,174 - INFO - Coletados 29 candles para ARKUSDT 1d
+2025-07-23 18:46:38,284 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARPAUSDT&interval=1d&limit=100&startTime=1750715198284
+2025-07-23 18:46:38,606 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARPAUSDT&interval=1d&limit=100&startTime=1750715198284 HTTP/1.1" 200 1618
+2025-07-23 18:46:38,622 - INFO - Coletados 29 candles para ARPAUSDT 1d
+2025-07-23 18:46:38,734 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARUSDT&interval=1d&limit=100&startTime=1750715198734
+2025-07-23 18:46:39,054 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARUSDT&interval=1d&limit=100&startTime=1750715198734 HTTP/1.1" 200 1521
+2025-07-23 18:46:39,070 - INFO - Coletados 29 candles para ARUSDT 1d
+2025-07-23 18:46:39,179 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASRUSDT&interval=1d&limit=100&startTime=1750715199179
+2025-07-23 18:46:39,487 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASRUSDT&interval=1d&limit=100&startTime=1750715199179 HTTP/1.1" 200 1464
+2025-07-23 18:46:39,503 - INFO - Coletados 29 candles para ASRUSDT 1d
+2025-07-23 18:46:39,604 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASTRUSDT&interval=1d&limit=100&startTime=1750715199604
+2025-07-23 18:46:39,926 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASTRUSDT&interval=1d&limit=100&startTime=1750715199604 HTTP/1.1" 200 1599
+2025-07-23 18:46:39,933 - INFO - Coletados 29 candles para ASTRUSDT 1d
+2025-07-23 18:46:40,048 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATAUSDT&interval=1d&limit=100&startTime=1750715200048
+2025-07-23 18:46:40,402 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATAUSDT&interval=1d&limit=100&startTime=1750715200048 HTTP/1.1" 200 1424
+2025-07-23 18:46:40,428 - INFO - Coletados 29 candles para ATAUSDT 1d
+2025-07-23 18:46:40,529 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATMUSDT&interval=1d&limit=100&startTime=1750715200529
+2025-07-23 18:46:40,860 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATMUSDT&interval=1d&limit=100&startTime=1750715200529 HTTP/1.1" 200 1510
+2025-07-23 18:46:40,878 - INFO - Coletados 29 candles para ATMUSDT 1d
+2025-07-23 18:46:40,983 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATOMUSDT&interval=1d&limit=100&startTime=1750715200983
+2025-07-23 18:46:41,498 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATOMUSDT&interval=1d&limit=100&startTime=1750715200983 HTTP/1.1" 200 1610
+2025-07-23 18:46:41,505 - INFO - Coletados 29 candles para ATOMUSDT 1d
+2025-07-23 18:46:41,613 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUCTIONUSDT&interval=1d&limit=100&startTime=1750715201613
+2025-07-23 18:46:41,960 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUCTIONUSDT&interval=1d&limit=100&startTime=1750715201613 HTTP/1.1" 200 1507
+2025-07-23 18:46:41,976 - INFO - Coletados 29 candles para AUCTIONUSDT 1d
+2025-07-23 18:46:42,089 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUDIOUSDT&interval=1d&limit=100&startTime=1750715202089
+2025-07-23 18:46:42,409 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUDIOUSDT&interval=1d&limit=100&startTime=1750715202089 HTTP/1.1" 200 1532
+2025-07-23 18:46:42,424 - INFO - Coletados 29 candles para AUDIOUSDT 1d
+2025-07-23 18:46:42,530 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUSDT&interval=1d&limit=100&startTime=1750715202530
+2025-07-23 18:46:42,929 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUSDT&interval=1d&limit=100&startTime=1750715202530 HTTP/1.1" 200 1613
+2025-07-23 18:46:42,936 - INFO - Coletados 29 candles para AUSDT 1d
+2025-07-23 18:46:43,048 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAUSDT&interval=1d&limit=100&startTime=1750715203048
+2025-07-23 18:46:43,366 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAUSDT&interval=1d&limit=100&startTime=1750715203048 HTTP/1.1" 200 1548
+2025-07-23 18:46:43,382 - INFO - Coletados 29 candles para AVAUSDT 1d
+2025-07-23 18:46:43,491 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAXUSDT&interval=1d&limit=100&startTime=1750715203491
+2025-07-23 18:46:43,830 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAXUSDT&interval=1d&limit=100&startTime=1750715203491 HTTP/1.1" 200 1591
+2025-07-23 18:46:43,846 - INFO - Coletados 29 candles para AVAXUSDT 1d
+2025-07-23 18:46:43,950 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AWEUSDT&interval=1d&limit=100&startTime=1750715203950
+2025-07-23 18:46:44,297 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AWEUSDT&interval=1d&limit=100&startTime=1750715203950 HTTP/1.1" 200 1540
+2025-07-23 18:46:44,314 - INFO - Coletados 29 candles para AWEUSDT 1d
+2025-07-23 18:46:44,418 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXLUSDT&interval=1d&limit=100&startTime=1750715204418
+2025-07-23 18:46:44,744 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXLUSDT&interval=1d&limit=100&startTime=1750715204418 HTTP/1.1" 200 1637
+2025-07-23 18:46:44,756 - INFO - Coletados 29 candles para AXLUSDT 1d
+2025-07-23 18:46:44,862 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXSUSDT&interval=1d&limit=100&startTime=1750715204862
+2025-07-23 18:46:45,221 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXSUSDT&interval=1d&limit=100&startTime=1750715204862 HTTP/1.1" 200 1579
+2025-07-23 18:46:45,234 - INFO - Coletados 29 candles para AXSUSDT 1d
+2025-07-23 18:46:45,340 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BABYUSDT&interval=1d&limit=100&startTime=1750715205340
+2025-07-23 18:46:45,684 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BABYUSDT&interval=1d&limit=100&startTime=1750715205340 HTTP/1.1" 200 1553
+2025-07-23 18:46:45,698 - INFO - Coletados 29 candles para BABYUSDT 1d
+2025-07-23 18:46:45,801 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BAKEUSDT&interval=1d&limit=100&startTime=1750715205801
+2025-07-23 18:46:46,129 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BAKEUSDT&interval=1d&limit=100&startTime=1750715205801 HTTP/1.1" 200 1552
+2025-07-23 18:46:46,134 - INFO - Coletados 29 candles para BAKEUSDT 1d
+2025-07-23 18:46:46,245 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAS31USDT&interval=1d&limit=100&startTime=1750715206245
+2025-07-23 18:46:46,560 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAS31USDT&interval=1d&limit=100&startTime=1750715206245 HTTP/1.1" 200 1745
+2025-07-23 18:46:46,576 - INFO - Coletados 29 candles para BANANAS31USDT 1d
+2025-07-23 18:46:46,687 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAUSDT&interval=1d&limit=100&startTime=1750715206687
+2025-07-23 18:46:47,121 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAUSDT&interval=1d&limit=100&startTime=1750715206687 HTTP/1.1" 200 1585
+2025-07-23 18:46:47,137 - INFO - Coletados 29 candles para BANANAUSDT 1d
+2025-07-23 18:46:47,239 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANDUSDT&interval=1d&limit=100&startTime=1750715207239
+2025-07-23 18:46:47,569 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANDUSDT&interval=1d&limit=100&startTime=1750715207239 HTTP/1.1" 200 1456
+2025-07-23 18:46:47,579 - INFO - Coletados 29 candles para BANDUSDT 1d
+2025-07-23 18:46:47,683 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BARUSDT&interval=1d&limit=100&startTime=1750715207683
+2025-07-23 18:46:48,227 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BARUSDT&interval=1d&limit=100&startTime=1750715207683 HTTP/1.1" 200 1516
+2025-07-23 18:46:48,243 - INFO - Coletados 29 candles para BARUSDT 1d
+2025-07-23 18:46:48,345 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BATUSDT&interval=1d&limit=100&startTime=1750715208345
+2025-07-23 18:46:48,678 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BATUSDT&interval=1d&limit=100&startTime=1750715208345 HTTP/1.1" 200 1465
+2025-07-23 18:46:48,694 - INFO - Coletados 29 candles para BATUSDT 1d
+2025-07-23 18:46:48,807 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BBUSDT&interval=1d&limit=100&startTime=1750715208807
+2025-07-23 18:46:49,133 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BBUSDT&interval=1d&limit=100&startTime=1750715208807 HTTP/1.1" 200 1572
+2025-07-23 18:46:49,145 - INFO - Coletados 29 candles para BBUSDT 1d
+2025-07-23 18:46:49,249 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BCHUSDT&interval=1d&limit=100&startTime=1750715209249
+2025-07-23 18:46:49,553 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BCHUSDT&interval=1d&limit=100&startTime=1750715209249 HTTP/1.1" 200 1593
+2025-07-23 18:46:49,567 - INFO - Coletados 29 candles para BCHUSDT 1d
+2025-07-23 18:46:49,669 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BEAMXUSDT&interval=1d&limit=100&startTime=1750715209669
+2025-07-23 18:46:49,989 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BEAMXUSDT&interval=1d&limit=100&startTime=1750715209669 HTTP/1.1" 200 1543
+2025-07-23 18:46:50,005 - INFO - Coletados 29 candles para BEAMXUSDT 1d
+2025-07-23 18:46:50,108 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BELUSDT&interval=1d&limit=100&startTime=1750715210108
+2025-07-23 18:46:50,408 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BELUSDT&interval=1d&limit=100&startTime=1750715210108 HTTP/1.1" 200 1569
+2025-07-23 18:46:50,419 - INFO - Coletados 29 candles para BELUSDT 1d
+2025-07-23 18:46:50,522 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BERAUSDT&interval=1d&limit=100&startTime=1750715210522
+2025-07-23 18:46:50,992 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BERAUSDT&interval=1d&limit=100&startTime=1750715210522 HTTP/1.1" 200 1651
+2025-07-23 18:46:51,005 - INFO - Coletados 29 candles para BERAUSDT 1d
+2025-07-23 18:46:51,108 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BICOUSDT&interval=1d&limit=100&startTime=1750715211108
+2025-07-23 18:46:51,463 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BICOUSDT&interval=1d&limit=100&startTime=1750715211108 HTTP/1.1" 200 1593
+2025-07-23 18:46:51,475 - INFO - Coletados 29 candles para BICOUSDT 1d
+2025-07-23 18:46:51,576 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIFIUSDT&interval=1d&limit=100&startTime=1750715211576
+2025-07-23 18:46:51,882 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIFIUSDT&interval=1d&limit=100&startTime=1750715211576 HTTP/1.1" 200 1449
+2025-07-23 18:46:51,899 - INFO - Coletados 29 candles para BIFIUSDT 1d
+2025-07-23 18:46:52,002 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIGTIMEUSDT&interval=1d&limit=100&startTime=1750715212002
+2025-07-23 18:46:52,340 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIGTIMEUSDT&interval=1d&limit=100&startTime=1750715212002 HTTP/1.1" 200 1546
+2025-07-23 18:46:52,352 - INFO - Coletados 29 candles para BIGTIMEUSDT 1d
+2025-07-23 18:46:52,454 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIOUSDT&interval=1d&limit=100&startTime=1750715212454
+2025-07-23 18:46:52,840 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIOUSDT&interval=1d&limit=100&startTime=1750715212454 HTTP/1.1" 200 1555
+2025-07-23 18:46:52,856 - INFO - Coletados 29 candles para BIOUSDT 1d
+2025-07-23 18:46:52,965 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BLURUSDT&interval=1d&limit=100&startTime=1750715212965
+2025-07-23 18:46:53,282 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BLURUSDT&interval=1d&limit=100&startTime=1750715212965 HTTP/1.1" 200 1553
+2025-07-23 18:46:53,299 - INFO - Coletados 29 candles para BLURUSDT 1d
+2025-07-23 18:46:53,407 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BMTUSDT&interval=1d&limit=100&startTime=1750715213407
+2025-07-23 18:46:53,875 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BMTUSDT&interval=1d&limit=100&startTime=1750715213407 HTTP/1.1" 200 1569
+2025-07-23 18:46:53,885 - INFO - Coletados 29 candles para BMTUSDT 1d
+2025-07-23 18:46:53,985 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BNBUSDT&interval=1d&limit=100&startTime=1750715213985
+2025-07-23 18:46:54,328 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BNBUSDT&interval=1d&limit=100&startTime=1750715213985 HTTP/1.1" 200 1733
+2025-07-23 18:46:54,337 - INFO - Coletados 29 candles para BNBUSDT 1d
+2025-07-23 18:46:54,438 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BNSOLUSDT&interval=1d&limit=100&startTime=1750715214437
+2025-07-23 18:46:54,769 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BNSOLUSDT&interval=1d&limit=100&startTime=1750715214437 HTTP/1.1" 200 1506
+2025-07-23 18:46:54,779 - INFO - Coletados 29 candles para BNSOLUSDT 1d
+2025-07-23 18:46:54,880 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BNTUSDT&interval=1d&limit=100&startTime=1750715214880
+2025-07-23 18:46:55,215 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BNTUSDT&interval=1d&limit=100&startTime=1750715214880 HTTP/1.1" 200 1508
+2025-07-23 18:46:55,225 - INFO - Coletados 29 candles para BNTUSDT 1d
+2025-07-23 18:46:55,327 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BOMEUSDT&interval=1d&limit=100&startTime=1750715215327
+2025-07-23 18:46:55,631 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BOMEUSDT&interval=1d&limit=100&startTime=1750715215327 HTTP/1.1" 200 1653
+2025-07-23 18:46:55,636 - INFO - Coletados 29 candles para BOMEUSDT 1d
+2025-07-23 18:46:55,746 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BONKUSDT&interval=1d&limit=100&startTime=1750715215746
+2025-07-23 18:46:56,052 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BONKUSDT&interval=1d&limit=100&startTime=1750715215746 HTTP/1.1" 200 1849
+2025-07-23 18:46:56,061 - INFO - Coletados 29 candles para BONKUSDT 1d
+2025-07-23 18:46:56,093 - INFO - Recebido sinal 2, parando...
+2025-07-23 18:46:56,093 - INFO - Parando coleta contínua...
+2025-07-23 18:46:56,093 - INFO - Coleta contínua parada
+2025-07-23 18:46:56,109 - INFO - Conexão com banco de dados fechada
+2025-07-23 18:46:56,109 - INFO - BinanceImporter finalizado
+2025-07-23 18:59:48,170 - INFO - Conexão com banco de dados estabelecida
+2025-07-23 18:59:48,170 - INFO - BinanceImporter - Coletor de Candles iniciado
+2025-07-23 19:00:12,225 - INFO - Iniciando coleta única para intervalo 5m
+2025-07-23 19:00:12,241 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CATUSDT&interval=5m&limit=1000&startTime=1750716012241
+2025-07-23 19:00:12,257 - DEBUG - Starting new HTTPS connection (1): api.binance.com:443
+2025-07-23 19:00:13,183 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CATUSDT&interval=5m&limit=1000&startTime=1750716012241 HTTP/1.1" 200 37793
+2025-07-23 19:00:13,362 - INFO - Coletados 1000 candles para 1000CATUSDT 5m
+2025-07-23 19:00:13,465 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000CHEEMSUSDT&interval=5m&limit=1000&startTime=1750716013465
+2025-07-23 19:00:13,802 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000CHEEMSUSDT&interval=5m&limit=1000&startTime=1750716013465 HTTP/1.1" 200 39430
+2025-07-23 19:00:13,900 - INFO - Coletados 1000 candles para 1000CHEEMSUSDT 5m
+2025-07-23 19:00:14,001 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1000SATSUSDT&interval=5m&limit=1000&startTime=1750716014001
+2025-07-23 19:00:14,317 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1000SATSUSDT&interval=5m&limit=1000&startTime=1750716014001 HTTP/1.1" 200 40416
+2025-07-23 19:00:14,415 - INFO - Coletados 1000 candles para 1000SATSUSDT 5m
+2025-07-23 19:00:14,519 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1INCHUSDT&interval=5m&limit=1000&startTime=1750716014519
+2025-07-23 19:00:14,875 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1INCHUSDT&interval=5m&limit=1000&startTime=1750716014519 HTTP/1.1" 200 35429
+2025-07-23 19:00:14,971 - INFO - Coletados 1000 candles para 1INCHUSDT 5m
+2025-07-23 19:00:15,077 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=1MBABYDOGEUSDT&interval=5m&limit=1000&startTime=1750716015077
+2025-07-23 19:00:15,452 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=1MBABYDOGEUSDT&interval=5m&limit=1000&startTime=1750716015077 HTTP/1.1" 200 42298
+2025-07-23 19:00:15,565 - INFO - Coletados 1000 candles para 1MBABYDOGEUSDT 5m
+2025-07-23 19:00:15,668 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AAVEUSDT&interval=5m&limit=1000&startTime=1750716015668
+2025-07-23 19:00:16,027 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AAVEUSDT&interval=5m&limit=1000&startTime=1750716015668 HTTP/1.1" 200 44439
+2025-07-23 19:00:16,315 - INFO - Coletados 1000 candles para AAVEUSDT 5m
+2025-07-23 19:00:16,429 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACAUSDT&interval=5m&limit=1000&startTime=1750716016429
+2025-07-23 19:00:16,749 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACAUSDT&interval=5m&limit=1000&startTime=1750716016429 HTTP/1.1" 200 35809
+2025-07-23 19:00:16,835 - INFO - Coletados 1000 candles para ACAUSDT 5m
+2025-07-23 19:00:16,940 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACEUSDT&interval=5m&limit=1000&startTime=1750716016940
+2025-07-23 19:00:17,258 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACEUSDT&interval=5m&limit=1000&startTime=1750716016940 HTTP/1.1" 200 30828
+2025-07-23 19:00:17,402 - INFO - Coletados 1000 candles para ACEUSDT 5m
+2025-07-23 19:00:17,513 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACHUSDT&interval=5m&limit=1000&startTime=1750716017513
+2025-07-23 19:00:17,835 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACHUSDT&interval=5m&limit=1000&startTime=1750716017513 HTTP/1.1" 200 36916
+2025-07-23 19:00:17,931 - INFO - Coletados 1000 candles para ACHUSDT 5m
+2025-07-23 19:00:18,037 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACMUSDT&interval=5m&limit=1000&startTime=1750716018037
+2025-07-23 19:00:18,393 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACMUSDT&interval=5m&limit=1000&startTime=1750716018037 HTTP/1.1" 200 31616
+2025-07-23 19:00:18,440 - INFO - Coletados 1000 candles para ACMUSDT 5m
+2025-07-23 19:00:18,557 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACTUSDT&interval=5m&limit=1000&startTime=1750716018557
+2025-07-23 19:00:18,890 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACTUSDT&interval=5m&limit=1000&startTime=1750716018557 HTTP/1.1" 200 35039
+2025-07-23 19:00:18,966 - INFO - Coletados 1000 candles para ACTUSDT 5m
+2025-07-23 19:00:19,075 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ACXUSDT&interval=5m&limit=1000&startTime=1750716019075
+2025-07-23 19:00:19,384 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ACXUSDT&interval=5m&limit=1000&startTime=1750716019075 HTTP/1.1" 200 36330
+2025-07-23 19:00:19,754 - INFO - Coletados 1000 candles para ACXUSDT 5m
+2025-07-23 19:00:19,858 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=5m&limit=1000&startTime=1750716019858
+2025-07-23 19:00:20,199 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADAUSDT&interval=5m&limit=1000&startTime=1750716019858 HTTP/1.1" 200 42726
+2025-07-23 19:00:20,296 - INFO - Coletados 1000 candles para ADAUSDT 5m
+2025-07-23 19:00:20,401 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ADXUSDT&interval=5m&limit=1000&startTime=1750716020401
+2025-07-23 19:00:20,723 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ADXUSDT&interval=5m&limit=1000&startTime=1750716020401 HTTP/1.1" 200 31517
+2025-07-23 19:00:20,782 - INFO - Coletados 1000 candles para ADXUSDT 5m
+2025-07-23 19:00:20,888 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEURUSDT&interval=5m&limit=1000&startTime=1750716020888
+2025-07-23 19:00:21,255 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEURUSDT&interval=5m&limit=1000&startTime=1750716020888 HTTP/1.1" 200 27624
+2025-07-23 19:00:21,322 - INFO - Coletados 1000 candles para AEURUSDT 5m
+2025-07-23 19:00:21,430 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AEVOUSDT&interval=5m&limit=1000&startTime=1750716021430
+2025-07-23 19:00:21,861 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AEVOUSDT&interval=5m&limit=1000&startTime=1750716021430 HTTP/1.1" 200 37815
+2025-07-23 19:00:21,925 - INFO - Coletados 1000 candles para AEVOUSDT 5m
+2025-07-23 19:00:22,028 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AGLDUSDT&interval=5m&limit=1000&startTime=1750716022028
+2025-07-23 19:00:22,358 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AGLDUSDT&interval=5m&limit=1000&startTime=1750716022028 HTTP/1.1" 200 32633
+2025-07-23 19:00:22,453 - INFO - Coletados 1000 candles para AGLDUSDT 5m
+2025-07-23 19:00:22,556 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIUSDT&interval=5m&limit=1000&startTime=1750716022556
+2025-07-23 19:00:22,888 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIUSDT&interval=5m&limit=1000&startTime=1750716022556 HTTP/1.1" 200 35441
+2025-07-23 19:00:22,969 - INFO - Coletados 1000 candles para AIUSDT 5m
+2025-07-23 19:00:23,078 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AIXBTUSDT&interval=5m&limit=1000&startTime=1750716023078
+2025-07-23 19:00:23,444 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AIXBTUSDT&interval=5m&limit=1000&startTime=1750716023078 HTTP/1.1" 200 40192
+2025-07-23 19:00:23,542 - INFO - Coletados 1000 candles para AIXBTUSDT 5m
+2025-07-23 19:00:23,649 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALCXUSDT&interval=5m&limit=1000&startTime=1750716023649
+2025-07-23 19:00:24,036 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALCXUSDT&interval=5m&limit=1000&startTime=1750716023649 HTTP/1.1" 200 36661
+2025-07-23 19:00:24,116 - INFO - Coletados 1000 candles para ALCXUSDT 5m
+2025-07-23 19:00:24,218 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALGOUSDT&interval=5m&limit=1000&startTime=1750716024218
+2025-07-23 19:00:24,563 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALGOUSDT&interval=5m&limit=1000&startTime=1750716024218 HTTP/1.1" 200 36000
+2025-07-23 19:00:24,665 - INFO - Coletados 1000 candles para ALGOUSDT 5m
+2025-07-23 19:00:24,772 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALICEUSDT&interval=5m&limit=1000&startTime=1750716024772
+2025-07-23 19:00:25,139 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALICEUSDT&interval=5m&limit=1000&startTime=1750716024772 HTTP/1.1" 200 38678
+2025-07-23 19:00:25,288 - INFO - Coletados 1000 candles para ALICEUSDT 5m
+2025-07-23 19:00:25,396 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALPINEUSDT&interval=5m&limit=1000&startTime=1750716025396
+2025-07-23 19:00:25,747 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALPINEUSDT&interval=5m&limit=1000&startTime=1750716025396 HTTP/1.1" 200 31180
+2025-07-23 19:00:25,905 - INFO - Coletados 1000 candles para ALPINEUSDT 5m
+2025-07-23 19:00:26,018 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ALTUSDT&interval=5m&limit=1000&startTime=1750716026018
+2025-07-23 19:00:26,354 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ALTUSDT&interval=5m&limit=1000&startTime=1750716026018 HTTP/1.1" 200 39136
+2025-07-23 19:00:26,562 - INFO - Coletados 1000 candles para ALTUSDT 5m
+2025-07-23 19:00:26,665 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AMPUSDT&interval=5m&limit=1000&startTime=1750716026665
+2025-07-23 19:00:27,029 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AMPUSDT&interval=5m&limit=1000&startTime=1750716026665 HTTP/1.1" 200 38845
+2025-07-23 19:00:27,234 - INFO - Coletados 1000 candles para AMPUSDT 5m
+2025-07-23 19:00:27,337 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANIMEUSDT&interval=5m&limit=1000&startTime=1750716027337
+2025-07-23 19:00:27,679 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANIMEUSDT&interval=5m&limit=1000&startTime=1750716027337 HTTP/1.1" 200 40533
+2025-07-23 19:00:27,823 - INFO - Coletados 1000 candles para ANIMEUSDT 5m
+2025-07-23 19:00:27,930 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ANKRUSDT&interval=5m&limit=1000&startTime=1750716027930
+2025-07-23 19:00:28,287 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ANKRUSDT&interval=5m&limit=1000&startTime=1750716027930 HTTP/1.1" 200 36471
+2025-07-23 19:00:28,383 - INFO - Coletados 1000 candles para ANKRUSDT 5m
+2025-07-23 19:00:28,497 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APEUSDT&interval=5m&limit=1000&startTime=1750716028497
+2025-07-23 19:00:28,846 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APEUSDT&interval=5m&limit=1000&startTime=1750716028497 HTTP/1.1" 200 42040
+2025-07-23 19:00:28,926 - INFO - Coletados 1000 candles para APEUSDT 5m
+2025-07-23 19:00:29,035 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=API3USDT&interval=5m&limit=1000&startTime=1750716029035
+2025-07-23 19:00:29,357 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=API3USDT&interval=5m&limit=1000&startTime=1750716029035 HTTP/1.1" 200 34261
+2025-07-23 19:00:29,437 - INFO - Coletados 1000 candles para API3USDT 5m
+2025-07-23 19:00:29,546 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=APTUSDT&interval=5m&limit=1000&startTime=1750716029546
+2025-07-23 19:00:29,916 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=APTUSDT&interval=5m&limit=1000&startTime=1750716029546 HTTP/1.1" 200 43662
+2025-07-23 19:00:30,053 - INFO - Coletados 1000 candles para APTUSDT 5m
+2025-07-23 19:00:30,158 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARBUSDT&interval=5m&limit=1000&startTime=1750716030158
+2025-07-23 19:00:30,537 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARBUSDT&interval=5m&limit=1000&startTime=1750716030158 HTTP/1.1" 200 41564
+2025-07-23 19:00:30,666 - INFO - Coletados 1000 candles para ARBUSDT 5m
+2025-07-23 19:00:30,772 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARDRUSDT&interval=5m&limit=1000&startTime=1750716030772
+2025-07-23 19:00:31,161 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARDRUSDT&interval=5m&limit=1000&startTime=1750716030772 HTTP/1.1" 200 35953
+2025-07-23 19:00:31,305 - INFO - Coletados 1000 candles para ARDRUSDT 5m
+2025-07-23 19:00:31,407 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKMUSDT&interval=5m&limit=1000&startTime=1750716031407
+2025-07-23 19:00:31,734 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKMUSDT&interval=5m&limit=1000&startTime=1750716031407 HTTP/1.1" 200 34822
+2025-07-23 19:00:31,829 - INFO - Coletados 1000 candles para ARKMUSDT 5m
+2025-07-23 19:00:31,931 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARKUSDT&interval=5m&limit=1000&startTime=1750716031931
+2025-07-23 19:00:32,293 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARKUSDT&interval=5m&limit=1000&startTime=1750716031931 HTTP/1.1" 200 30905
+2025-07-23 19:00:32,452 - INFO - Coletados 1000 candles para ARKUSDT 5m
+2025-07-23 19:00:32,555 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARPAUSDT&interval=5m&limit=1000&startTime=1750716032555
+2025-07-23 19:00:32,914 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARPAUSDT&interval=5m&limit=1000&startTime=1750716032555 HTTP/1.1" 200 37065
+2025-07-23 19:00:33,122 - INFO - Coletados 1000 candles para ARPAUSDT 5m
+2025-07-23 19:00:33,223 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ARUSDT&interval=5m&limit=1000&startTime=1750716033223
+2025-07-23 19:00:33,555 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ARUSDT&interval=5m&limit=1000&startTime=1750716033223 HTTP/1.1" 200 35928
+2025-07-23 19:00:33,638 - INFO - Coletados 1000 candles para ARUSDT 5m
+2025-07-23 19:00:33,742 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASRUSDT&interval=5m&limit=1000&startTime=1750716033742
+2025-07-23 19:00:34,131 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASRUSDT&interval=5m&limit=1000&startTime=1750716033742 HTTP/1.1" 200 35295
+2025-07-23 19:00:34,251 - INFO - Coletados 1000 candles para ASRUSDT 5m
+2025-07-23 19:00:34,356 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ASTRUSDT&interval=5m&limit=1000&startTime=1750716034356
+2025-07-23 19:00:34,732 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ASTRUSDT&interval=5m&limit=1000&startTime=1750716034356 HTTP/1.1" 200 37053
+2025-07-23 19:00:34,829 - INFO - Coletados 1000 candles para ASTRUSDT 5m
+2025-07-23 19:00:34,934 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATAUSDT&interval=5m&limit=1000&startTime=1750716034934
+2025-07-23 19:00:35,277 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATAUSDT&interval=5m&limit=1000&startTime=1750716034934 HTTP/1.1" 200 26632
+2025-07-23 19:00:35,388 - INFO - Coletados 1000 candles para ATAUSDT 5m
+2025-07-23 19:00:35,490 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATMUSDT&interval=5m&limit=1000&startTime=1750716035490
+2025-07-23 19:00:35,854 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATMUSDT&interval=5m&limit=1000&startTime=1750716035490 HTTP/1.1" 200 34484
+2025-07-23 19:00:35,950 - INFO - Coletados 1000 candles para ATMUSDT 5m
+2025-07-23 19:00:36,062 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=ATOMUSDT&interval=5m&limit=1000&startTime=1750716036062
+2025-07-23 19:00:36,399 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=ATOMUSDT&interval=5m&limit=1000&startTime=1750716036062 HTTP/1.1" 200 39337
+2025-07-23 19:00:36,494 - INFO - Coletados 1000 candles para ATOMUSDT 5m
+2025-07-23 19:00:36,598 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUCTIONUSDT&interval=5m&limit=1000&startTime=1750716036598
+2025-07-23 19:00:36,911 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUCTIONUSDT&interval=5m&limit=1000&startTime=1750716036598 HTTP/1.1" 200 31708
+2025-07-23 19:00:37,021 - INFO - Coletados 1000 candles para AUCTIONUSDT 5m
+2025-07-23 19:00:37,124 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUDIOUSDT&interval=5m&limit=1000&startTime=1750716037124
+2025-07-23 19:00:37,485 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUDIOUSDT&interval=5m&limit=1000&startTime=1750716037124 HTTP/1.1" 200 34623
+2025-07-23 19:00:37,579 - INFO - Coletados 1000 candles para AUDIOUSDT 5m
+2025-07-23 19:00:37,692 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AUSDT&interval=5m&limit=1000&startTime=1750716037692
+2025-07-23 19:00:38,252 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AUSDT&interval=5m&limit=1000&startTime=1750716037692 HTTP/1.1" 200 39640
+2025-07-23 19:00:38,416 - INFO - Coletados 1000 candles para AUSDT 5m
+2025-07-23 19:00:38,520 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAUSDT&interval=5m&limit=1000&startTime=1750716038520
+2025-07-23 19:00:38,908 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAUSDT&interval=5m&limit=1000&startTime=1750716038520 HTTP/1.1" 200 36467
+2025-07-23 19:00:39,147 - INFO - Coletados 1000 candles para AVAUSDT 5m
+2025-07-23 19:00:39,258 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AVAXUSDT&interval=5m&limit=1000&startTime=1750716039258
+2025-07-23 19:00:39,691 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AVAXUSDT&interval=5m&limit=1000&startTime=1750716039258 HTTP/1.1" 200 38849
+2025-07-23 19:00:39,786 - INFO - Coletados 1000 candles para AVAXUSDT 5m
+2025-07-23 19:00:39,891 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AWEUSDT&interval=5m&limit=1000&startTime=1750716039891
+2025-07-23 19:00:40,283 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AWEUSDT&interval=5m&limit=1000&startTime=1750716039891 HTTP/1.1" 200 35220
+2025-07-23 19:00:40,746 - INFO - Coletados 1000 candles para AWEUSDT 5m
+2025-07-23 19:00:40,854 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXLUSDT&interval=5m&limit=1000&startTime=1750716040854
+2025-07-23 19:00:41,401 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXLUSDT&interval=5m&limit=1000&startTime=1750716040854 HTTP/1.1" 200 39879
+2025-07-23 19:00:41,632 - INFO - Coletados 1000 candles para AXLUSDT 5m
+2025-07-23 19:00:41,738 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=AXSUSDT&interval=5m&limit=1000&startTime=1750716041738
+2025-07-23 19:00:42,088 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=AXSUSDT&interval=5m&limit=1000&startTime=1750716041738 HTTP/1.1" 200 37495
+2025-07-23 19:00:42,215 - INFO - Coletados 1000 candles para AXSUSDT 5m
+2025-07-23 19:00:42,327 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BABYUSDT&interval=5m&limit=1000&startTime=1750716042327
+2025-07-23 19:00:42,695 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BABYUSDT&interval=5m&limit=1000&startTime=1750716042327 HTTP/1.1" 200 38523
+2025-07-23 19:00:42,968 - INFO - Coletados 1000 candles para BABYUSDT 5m
+2025-07-23 19:00:43,077 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BAKEUSDT&interval=5m&limit=1000&startTime=1750716043077
+2025-07-23 19:00:43,446 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BAKEUSDT&interval=5m&limit=1000&startTime=1750716043077 HTTP/1.1" 200 34104
+2025-07-23 19:00:43,605 - INFO - Coletados 1000 candles para BAKEUSDT 5m
+2025-07-23 19:00:43,716 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAS31USDT&interval=5m&limit=1000&startTime=1750716043716
+2025-07-23 19:00:44,100 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAS31USDT&interval=5m&limit=1000&startTime=1750716043716 HTTP/1.1" 200 48043
+2025-07-23 19:00:44,340 - INFO - Coletados 1000 candles para BANANAS31USDT 5m
+2025-07-23 19:00:44,453 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANANAUSDT&interval=5m&limit=1000&startTime=1750716044453
+2025-07-23 19:00:44,898 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANANAUSDT&interval=5m&limit=1000&startTime=1750716044453 HTTP/1.1" 200 37173
+2025-07-23 19:00:45,026 - INFO - Coletados 1000 candles para BANANAUSDT 5m
+2025-07-23 19:00:45,138 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BANDUSDT&interval=5m&limit=1000&startTime=1750716045138
+2025-07-23 19:00:45,494 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BANDUSDT&interval=5m&limit=1000&startTime=1750716045138 HTTP/1.1" 200 30534
+2025-07-23 19:00:45,618 - INFO - Coletados 1000 candles para BANDUSDT 5m
+2025-07-23 19:00:45,732 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BARUSDT&interval=5m&limit=1000&startTime=1750716045732
+2025-07-23 19:00:46,146 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BARUSDT&interval=5m&limit=1000&startTime=1750716045732 HTTP/1.1" 200 35180
+2025-07-23 19:00:46,289 - INFO - Coletados 1000 candles para BARUSDT 5m
+2025-07-23 19:00:46,400 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BATUSDT&interval=5m&limit=1000&startTime=1750716046400
+2025-07-23 19:00:46,753 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BATUSDT&interval=5m&limit=1000&startTime=1750716046400 HTTP/1.1" 200 32972
+2025-07-23 19:00:46,948 - INFO - Coletados 1000 candles para BATUSDT 5m
+2025-07-23 19:00:47,059 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BBUSDT&interval=5m&limit=1000&startTime=1750716047059
+2025-07-23 19:00:48,173 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BBUSDT&interval=5m&limit=1000&startTime=1750716047059 HTTP/1.1" 200 35830
+2025-07-23 19:00:48,321 - INFO - Coletados 1000 candles para BBUSDT 5m
+2025-07-23 19:00:48,428 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BCHUSDT&interval=5m&limit=1000&startTime=1750716048428
+2025-07-23 19:00:48,784 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BCHUSDT&interval=5m&limit=1000&startTime=1750716048428 HTTP/1.1" 200 40875
+2025-07-23 19:00:48,908 - INFO - Coletados 1000 candles para BCHUSDT 5m
+2025-07-23 19:00:49,017 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BEAMXUSDT&interval=5m&limit=1000&startTime=1750716049017
+2025-07-23 19:00:49,833 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BEAMXUSDT&interval=5m&limit=1000&startTime=1750716049017 HTTP/1.1" 200 36470
+2025-07-23 19:00:49,928 - INFO - Coletados 1000 candles para BEAMXUSDT 5m
+2025-07-23 19:00:50,030 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BELUSDT&interval=5m&limit=1000&startTime=1750716050030
+2025-07-23 19:00:50,464 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BELUSDT&interval=5m&limit=1000&startTime=1750716050030 HTTP/1.1" 200 34855
+2025-07-23 19:00:50,778 - INFO - Coletados 1000 candles para BELUSDT 5m
+2025-07-23 19:00:50,882 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BERAUSDT&interval=5m&limit=1000&startTime=1750716050882
+2025-07-23 19:00:51,451 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BERAUSDT&interval=5m&limit=1000&startTime=1750716050882 HTTP/1.1" 200 41316
+2025-07-23 19:00:51,722 - INFO - Coletados 1000 candles para BERAUSDT 5m
+2025-07-23 19:00:51,825 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BICOUSDT&interval=5m&limit=1000&startTime=1750716051825
+2025-07-23 19:00:52,264 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BICOUSDT&interval=5m&limit=1000&startTime=1750716051825 HTTP/1.1" 200 37161
+2025-07-23 19:00:52,375 - INFO - Coletados 1000 candles para BICOUSDT 5m
+2025-07-23 19:00:52,477 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIFIUSDT&interval=5m&limit=1000&startTime=1750716052477
+2025-07-23 19:00:52,920 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIFIUSDT&interval=5m&limit=1000&startTime=1750716052477 HTTP/1.1" 200 32910
+2025-07-23 19:00:53,015 - INFO - Coletados 1000 candles para BIFIUSDT 5m
+2025-07-23 19:00:53,128 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIGTIMEUSDT&interval=5m&limit=1000&startTime=1750716053128
+2025-07-23 19:00:53,512 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIGTIMEUSDT&interval=5m&limit=1000&startTime=1750716053128 HTTP/1.1" 200 37373
+2025-07-23 19:00:53,752 - INFO - Coletados 1000 candles para BIGTIMEUSDT 5m
+2025-07-23 19:00:53,867 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BIOUSDT&interval=5m&limit=1000&startTime=1750716053867
+2025-07-23 19:00:54,203 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BIOUSDT&interval=5m&limit=1000&startTime=1750716053867 HTTP/1.1" 200 36160
+2025-07-23 19:00:54,352 - INFO - Coletados 1000 candles para BIOUSDT 5m
+2025-07-23 19:00:54,458 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BLURUSDT&interval=5m&limit=1000&startTime=1750716054458
+2025-07-23 19:00:54,885 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BLURUSDT&interval=5m&limit=1000&startTime=1750716054458 HTTP/1.1" 200 35632
+2025-07-23 19:00:55,278 - INFO - Coletados 1000 candles para BLURUSDT 5m
+2025-07-23 19:00:55,383 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BMTUSDT&interval=5m&limit=1000&startTime=1750716055383
+2025-07-23 19:00:55,742 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BMTUSDT&interval=5m&limit=1000&startTime=1750716055383 HTTP/1.1" 200 39852
+2025-07-23 19:00:55,860 - INFO - Coletados 1000 candles para BMTUSDT 5m
+2025-07-23 19:00:55,962 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BNBUSDT&interval=5m&limit=1000&startTime=1750716055962
+2025-07-23 19:00:56,391 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?symbol=BNBUSDT&interval=5m&limit=1000&startTime=1750716055962 HTTP/1.1" 200 44383
+2025-07-23 19:00:56,510 - INFO - Coletados 1000 candles para BNBUSDT 5m
+2025-07-23 19:00:56,614 - DEBUG - REQ URL: https://api.binance.com/api/v3/klines?symbol=BNSOLUSDT&interval=5m&limit=1000&startTime=1750716056614
+2025-07-23 19:00:56,997 - INFO - Recebido sinal 2, parando...
+2025-07-23 19:00:56,997 - INFO - Parando coleta contínua...
+2025-07-23 19:00:56,997 - INFO - Coleta contínua parada
+2025-07-23 19:00:56,999 - INFO - Conexão com banco de dados fechada
+2025-07-23 19:00:56,999 - INFO - BinanceImporter finalizado

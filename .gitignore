@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar o arquivo .env com as variáveis de ambiente
+.env
+
+# Ignorar outros arquivos que você não quer versionar
+*.pyc
+__pycache__/
